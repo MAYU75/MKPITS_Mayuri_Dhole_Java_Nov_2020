@@ -64,6 +64,40 @@ Write a program in java to print Down triangle.
 #### Program 18 Star Pattern Program(PatternEx15.java)
 Write a program in java to print Diamond Star Pattern.
 
+#### Program 19 Multithreading Program(ThreadEx1.java)
+Write a program in java to create a thread by extending thread class.
+
+#### Program 20 Multithreading Program(ThreadEx2.java)
+Write a program in java to create thread by implementing runnable interface.
+
+#### Program 21 Multithreading Program(ThreadEx3.java)
+Write a program in java to create 2 threads.
+
+#### Program 22 Multithreading Program(ThreadSleepEx4.java)
+Write a program in java to sleep a thread.
+
+#### Program 23 Multithreading Program(ThreadTwiceEx5.java)
+Write a program in java to start the same thread twice.
+
+#### Program 24 Multithreading Program(ThreadCallRunEx6.java)
+Write a program in java to run a thread by directly calling the run method.
+
+#### Program 25 Multithreading Program(ThreadCallRunEx7.java)
+Write a program in java to run a thread by directly calling the run method and to demonstrate MainThreadStack Problem if you direct call run() method.
+
+#### Program 26 Multithreading Program(ThreadJoinMethodEx8.java)
+Write a program in java to use join method for thread.
+
+#### Program 27 Multithreading Program(ThreadJoinMethodEx9.java)
+Write a program in java to use join(long miliseconds) method for thread.
+
+#### Program 28 Multithreading Program(ThreadMethodEx10.java)
+Write a program in java to demonstrate getName(), setName() and getId() methods in Thread class.
+
+#### Program 29 Multithreading Program(ThreadCurrentThreadMethodEx11.java)
+Write a program in java to demonstrate currentThread() method.
+
+
 ## Adv_Java_Practice
 #### Program 1 (Date)
 Description of program
