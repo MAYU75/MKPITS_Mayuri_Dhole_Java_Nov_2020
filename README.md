@@ -97,6 +97,60 @@ Write a program in java to demonstrate getName(), setName() and getId() methods 
 #### Program 29 Multithreading Program(ThreadCurrentThreadMethodEx11.java)
 Write a program in java to demonstrate currentThread() method.
 
+#### Program 30 Multithreading Program(ShutdownHookEx1.java)
+Write a program in java to demonstrate Shutdown Hook.
+
+#### Program 31 Multithreading Program(ShutdownHookEx2.java)
+Write a program in java to demonstrate Shutdown Hook by annonymous class.
+
+#### Program 32 Multithreading Program(MultitaskingEx1.java)
+Write a program in java to perform single task by multiple threads.
+
+#### Program 33 Multithreading Program(MultitaskingEx2.java)
+Write a program in java to perform single task by multiple threads.
+
+#### Program 34 Multithreading Program(MultitaskingEx3.java)
+Write a program in java to perform two tasks by two threads.
+
+#### Program 35 Multithreading Program(MultitaskingEx4.java)
+Write a program in java to perform two tasks by two threads using annonymous class that extends Thread class.
+
+#### Program 36 Multithreading Program(MultitaskingEx5.java)
+Write a program in java to perform two tasks by two threads using annonymous class that implements Runnable interface.
+
+#### Program 37 Multithreading Program(GarbageEx1.java)
+Write a program in java to demonstrate garbage collection in java.
+
+#### Program 38 Multithreading Program(RuntimeClassEx1.java)
+Write a program in java to demonstrate Runtime exec() method.
+
+#### Program 39 Multithreading Program(RuntimeClassEx2.java)
+Write a program in java to demonstrate how to shutdown windows system in Java.
+
+#### Program 40 Multithreading Program(RuntimeClassEx3.java)
+Write a program in java to demonstrate how to restart system in Java.
+
+#### Program 41 Multithreading Program(RuntimeClassEx4.java)
+Write a program in java to demonstrate Runtime availableProcessors() method.
+
+#### Program 42 Multithreading Program(RuntimeClassEx5.java)
+Write a program in java to demonstrate Runtime freeMemory() and totalMemory() method.
+
+#### Program 43 Multithreading Program(SynchronizationEx1.java)
+Write a program in java to demonstrate the need for synchronization.
+
+#### Program 44 Multithreading Program(SynchronizationEx2.java)
+Write a program in java to demonstrate synchronized method.
+
+#### Program 45 Multithreading Program(SynchronizationEx3.java)
+Write a program in java to demonstrate synchronized method by using annonymous class.
+
+#### Program 46 Multithreading Program(SynchronizedBlockEx1.java)
+Write a program in java to demonstrate synchronized block.
+
+#### Program 47 Multithreading Program(SynchronizedBlockEx2.java)
+Write a program in java to demonstrate synchronized block by using annonymous class.
+
 
 ## Adv_Java_Practice
 #### Program 1 (Date)
