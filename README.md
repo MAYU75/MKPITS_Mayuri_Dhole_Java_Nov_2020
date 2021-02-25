@@ -151,6 +151,120 @@ Write a program in java to demonstrate synchronized block.
 #### Program 47 Multithreading Program(SynchronizedBlockEx2.java)
 Write a program in java to demonstrate synchronized block by using annonymous class.
 
+#### Program 48 Multithreading Program(ThreadPriorityEx1.java)
+Write a program in java to demonstrate priority of a Thread (Example 1).
+
+#### Program 49 Multithreading Program(ThreadPriorityEx2.java)
+Write a program in java to demonstrate priority of a Thread (Example 2).
+
+#### Program 50 Multithreading Program(DaemonThreadEx1.java)
+Write a program in java to demonstrate Daemon thread.
+
+#### Program 51 Multithreading Program(DaemonThreadEx2.java)
+Write a program in java to demonstrate Daemon thread.If you want to make a user thread as Daemon,
+it must not be started otherwise it will throw IllegalThreadStateException.
+
+#### Program 52 Basic Core Java Program(bodatatype.java)
+Write a program in java to declare boolean datatype variable.
+
+#### Program 53 Basic Core Java Program(bydatatype.java)
+Write a program in java to declare byte datatype variable.
+
+#### Program 54 Basic Core Java Program(dbdatatype.java)
+Write a program in java to declare double datatype variable.
+
+#### Program 55 Basic Core Java Program(ftdatatype.java)
+Write a program in java to declare float datatype variable.
+
+#### Program 56 Basic Core Java Program(indatatype.java)
+Write a program in java to declare int datatype variable.
+
+#### Program 57 Basic Core Java Program(lgdatatype.java)
+Write a program in java to declare long datatype variable.
+
+#### Program 58 Basic Core Java Program(shdatatype.java)
+Write a program in java to declare short datatype variable.
+
+#### Program 59 Basic Core Java Program(acceptvalue.java)
+Write a program in java to accept byte, short, long, boolean, float, double, char, string value from the user and then display it.
+
+#### Program 60 Basic Core Java Program(calculate.java)
+Write a program in java to calculate total , per and grade using if else if.
+
+#### Program 61 Basic Core Java Program(chdatatype.java)
+Write a program in java to declare char datatype variable.
+
+#### Program 62 Basic Core Java Program(greater.java)
+Write a program in java to print greater of two number using if else.
+
+#### Program 63 Basic Core Java Program(greater3num.java)
+Write a program in java to accept 3 no and display the greater no.
+
+#### Program 64 Basic Core Java Program(greaternum.java)
+Write a program in java to accept 2 no. and display the greater no.
+
+#### Program 65 Basic Core Java Program(intvalue.java)
+Write a program in java to accept integer value from the user and then display it.
+
+#### Program 66 Basic Core Java Program(month.java)
+Write a program in java to demonstrate switch to display month name.
+
+#### Program 67 Basic Core Java Program(stgdatatype.java)
+Write a program in java to declare string variable to store some string value.
+
+#### Program 68 Basic Core Java Program(switchCalculator.java)
+Write a program in java to accept 2 no. and accept operator like +,-,* from the user and then dipslay the result using switch.
+
+#### Program 69 Basic Core Java Program(whileloop.java)
+Write a program in java to print no. from 1 to 10 using while loop.
+
+#### Program 70 Basic Core Java Program(vowelinput.java)
+Write a program in java to accept a char from the user and display whether it is vowel or not.
+
+#### Program 71 Basic Core Java Program(SearchElement.java)
+Write a program in java to search an element in an array. Example of unlabeled break.
+
+#### Program 72 Basic Core Java Program(monthdisplay.java)
+Write a program in java to demonstrate switch to display month name.
+
+#### Program 73 Basic Core Java Program(forloop.java)
+Write a program in java to print no. from 1 to 10 using for loop.
+
+#### Program 74 Basic Core Java Program(enhanceloop.java)
+Write a program in java to create an array of 10 elements to store 10 no.
+
+#### Program 75 Basic Core Java Program(dowhileloop.java)
+Write a program in java to print no. from 1 to 10 using do while loop.
+
+#### Program 76 Basic Core Java Program(daysDisplay.java)
+Write a program in java to accept mon and display the days in that month using switch.
+
+#### Program 77 Basic Core Java Program(arrayOfInt.java)
+Write a program in java to create an array of integers, put some values in the array, and print each value to standard output.
+
+#### Program 78 Basic Core Java Program(arrayInput.java)
+Write a program in java to create an array of integers, accept values from the user in the array, and print each value to standard output.
+
+#### Program 79 Basic Core Java Program(2DArray.java)
+Write a program in java to create a 2d array of 3 rows and 3 cols.
+
+#### Program 80 Basic Core Java Program(Arr2D.java)
+Write a program in java to create a 2d array of 3 rows and 3 cols.
+
+#### Program 81 Basic Core Java Program(countp.java)
+Write a program in java that steps through a String, counting the occurences of the letter "p".
+If the current character is not a p, the continue statement skips the rest of the loop and
+proceeds to the next character. If it is a "p", the program increments the letter count.
+
+#### Program 82 Basic Core Java Program(search2Darr.java)
+Write a program in java to search an element in a 2 d array. Example of labeled break statement.
+
+#### Program 83 Basic Core Java Program(studentmain.java)
+Write a program in java to create a class student having fields rno and name.
+
+#### Program 84 Basic Core Java Program(test.java)
+Write a program in java to create a class employee having fields empno and empname.
+
 
 ## Adv_Java_Practice
 #### Program 1 (Date)
