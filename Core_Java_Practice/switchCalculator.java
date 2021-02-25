@@ -1,4 +1,4 @@
-//Java program to accept 2 no. and and operator like +,-,* from the user
+//Java program to accept 2 no. and accept operator like +,-,* from the user
 //and then dipslay the result using switch.
 import java.util.Scanner;
 class switchCalculator
