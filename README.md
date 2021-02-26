@@ -265,6 +265,125 @@ Write a program in java to create a class student having fields rno and name.
 #### Program 84 Basic Core Java Program(test.java)
 Write a program in java to create a class employee having fields empno and empname.
 
+#### Program 85 Basic Core Java Program(studmain.java)
+Write a program in java to create a class student having fields rno and name and accept the values from the user.
+
+#### Program 86 Basic Core Java Program(stud6main.java)
+Write a program in java to create a class student having fields rno and name and getdata method with 2 parameters and showdata method.
+
+#### Program 87 Basic Core Java Program(stud4main.java)
+Write a program in java to create a class employee having fields empno and empname and accept the values from the user.
+
+#### Program 88 Basic Core Java Program(stat2main.java)
+Write a program in java to create a static method display() and show1().
+
+#### Program 89 Basic Core Java Program(MainStud.java)
+Write a program in java to create a class student having fields rno and name and methods getdata() and showdata().
+
+#### Program 90 Basic Core Java Program(inst1main.java)
+Write a program in java to create a instance specific method example.
+
+#### Program 91 Basic Core Java Program(cust8main.java)
+Write a program in java to create a class customer having fields custid,custname,address and emailid
+and getdata method with 4 parameters and showdata method.
+
+#### Program 92 Basic Core Java Program(cust10main.java)
+Write a program in java to create a class customer having fields custid,custname,address and emailid 
+and getdata method and showdata method without parameters.
+
+#### Program 93 Basic Core Java Program(book9main.java)
+Write a program in java to create a class book having fields bookid,bookname,price and author and getdata
+method and showdata method without parameters.
+
+#### Program 94 Basic Core Java Program(book7main.java)
+Write a program in java to create a class book having fields bookid,bookname,price and author and getdata
+method with 4 parameters and showdata method.
+
+#### Program 95 Basic Core Java Program(fin3main.java)
+Write a program in java to demonstrate final variable.
+
+#### Program 96 constructor overloading Program(empmain.java)
+Write a program in java to create a class employee having fields empname,designation and salary and
+a blank constructor and constructor with 3 parameters.(Example of constructor overloading).
+
+#### Program 97 Basic Core Java Program(book4main.java)
+Write a program in java to create a class book having fields bookname,author and price and a blank constructor.
+
+#### Program 98 Basic Core Java Program(book5main.java)
+Write a program in java to create a class book having fields bookname,author and price
+and a blank constructor and constructor with 3 parameters.
+
+#### Program 99 Basic Core Java Program(hello9th1.java)
+Write a program in java to print Hello and your name in a separate line.
+
+#### Program 100 Basic Core Java Program(sum9th2.java)
+Write a program in java to print the sum of two numbers.
+
+#### Program 101 Basic Core Java Program(divide9th3.java)
+Write a program in java to print the result of dividing two numbers.
+
+#### Program 102 Basic Core Java Program(operations9th4.java)
+Write a program in java to print the result of the specified operations.
+-1 + 4 * 6
+( 35+ 5 ) % 7
+14 + -4 * 6 / 11
+2 + 15 / 6 * 1 - 7 % 2
+
+#### Program 103 Basic Core Java Program(multi9th6.java)
+Write a program in java to print the output of multiplication of three numbers which will be entered by the user.
+
+#### Program 104 Basic Core Java Program(calculate9th7.java)
+Write a program in java to print on screen the output of adding, subtracting, multiplying and dividing of
+two numbers which will be entered by the user.
+
+#### Program 105 Basic Core Java Program(multitable9th8.java)
+Write a program in java that takes a number as input and print its multiplication table.
+
+#### Program 106 Basic Core Java Program(bookmain7methodoverload.java)
+Write a program in java to create a class book having fields bookname,author and price
+and a method getbook with no parameters, overload the getbook method
+with 3 parameters (string, string, float),
+overlaod again getbook method with 3 parameters(string,float,string).
+
+#### Program 107 Basic Core Java Program(employeemain8methodoverload.java)
+Write a program in java to create a class employee having fields empname,designation and salary
+and a method getemployee with no parameters, overload the getemployee method
+with 3 parameters (string, string, float),
+overlaod again getemployee method with 3 parameters(string,float,string).
+
+#### Program 108 Basic Core Java Program(bookmain9overload.java)
+Write a program in java to demonstrate example of book class having constructor and method overloading.
+
+#### Program 109 Basic Core Java Program(cal10main.java)
+Write a program in java to demonstrate method overloading with different no. of parameters.
+
+#### Program 110 Basic Core Java Program(cal11main.java)
+Write a program in java to demonstrate method overloading with different types of parameters.
+
+#### Program 111 Basic Core Java Program(.java)
+Write a program in java to print the result of dividing two numbers.
+
+#### Program 112 Basic Core Java Program(divide9th3.java)
+Write a program in java to print the result of dividing two numbers.
+
+#### Program 113 Basic Core Java Program(divide9th3.java)
+Write a program in java to print the result of dividing two numbers.
+
+#### Program 114 Basic Core Java Program(divide9th3.java)
+Write a program in java to print the result of dividing two numbers.
+
+#### Program 115 Basic Core Java Program(divide9th3.java)
+Write a program in java to print the result of dividing two numbers.
+
+#### Program 116 Basic Core Java Program(divide9th3.java)
+Write a program in java to print the result of dividing two numbers.
+
+#### Program 117 Basic Core Java Program(divide9th3.java)
+Write a program in java to print the result of dividing two numbers.
+
+#### Program 118 Basic Core Java Program(divide9th3.java)
+Write a program in java to print the result of dividing two numbers.
+
 
 ## Adv_Java_Practice
 #### Program 1 (Date)
