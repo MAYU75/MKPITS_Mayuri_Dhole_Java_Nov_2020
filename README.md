@@ -441,64 +441,123 @@ Write a program in java to call default constructor from parameterized construct
 Write a program in java to call default constructor from parameterized constructor using this keyword(Example 2).
 
 #### Program 131 Basic Core Java Program(example4this.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+Write a program in java to call parameterized constructor from default constructor using this keyword.
 
 #### Program 132 Basic Core Java Program(example5this.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+Write a program in java to invoke current class method using this keyword.
 
 #### Program 133 Basic Core Java Program(example6this.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+Write a program in java to demonstrate real usage of this() constructor call.
 
-#### Program 134 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 134 Basic Core Java Program(Programmer.java)
+Write a program in java to demonstrate singlelevel inheritance.
 
-#### Program 135 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 135 Basic Core Java Program(circlemain.java)
+Write a program in java to create circle class for calculating area.
 
-#### Program 136 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 136 Basic Core Java Program(SingleInheritancemain.java)
+Write a program in java to demonstrate Single Inheritance.
 
-#### Program 137 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 137 Basic Core Java Program(MultilevelInheritancemain.java)
+Write a program in java to demonstrate Multilevel Inheritance.
 
-#### Program 138 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 138 Basic Core Java Program(HierarchicalInheritancemain.java)
+Write a program in java to demonstrate Hierarchical Inheritance.
 
-#### Program 139 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 139 Basic Core Java Program(MultilevelInhEx2main.java)
+Write a program in java to demonstrate Multilevel inheritance. Java program to create a 
+class Person having instance variable name and create a derived class Employee having 
+instance variable salary inherited from Person class, then create a derieved class
+parttimeemployee having instance variable workinghours derived from Employee class.
 
-#### Program 140 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 140 Basic Core Java Program(MultilevelInhEx3main.java)
+Write a program in java to demonstrate Multilevel inheritance. Java program to create a 
+class Person having instance variable name and create a derived class Employee having 
+instance variable salary inherited from Person class, then create a derieved class
+parttimeemployee having instance variable workinghours derived from Employee class.
 
-#### Program 141 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 141 Basic Core Java Program(MultilevelInhEx4main.java)
+Write a program in java to demonstrate Multilevel inheritance. Create a base class person(name,address), 
+create a derived class student(rno,marks) inherited from person class, then create a derived 
+class parttimestudent(noofhours) derived from student class.
 
-#### Program 142 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 142 Basic Core Java Program(methodoverridingEx.java)
+Write a program in java to demonstrate method overriding and overloading.
 
-#### Program 143 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 143 Basic Core Java Program(Accountmain.java)
+Write a program in java to create a base class account having fields actno and balance
+and methods deposit and withdrawl and showbalance. Create a child class saving inherited 
+from account class and override the deposit method. Create a child class current inherited from account class . 
+(Example of hierarchical Inheritance.).
 
-#### Program 144 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 144 Basic Core Java Program(calculatormain.java)
+Write a program in java to create a class calculator with methods addition, subtraction, multiplication, division, modulus.
 
-#### Program 145 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 145 Basic Core Java Program(AggregationEx1.java)
+Write a program in java to demonstrate aggregation. create a class Operation. create a class Circle
+and in class Circle create an object of class Operation.
 
-#### Program 146 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 146 Basic Core Java Program(AggregationEx2.java)
+Write a program in java to demonstrate aggregation. Create a class Address having field city, state, pincode.
+create a class Employee having field empno, empname and address of type Address class.
 
-#### Program 147 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 147 Basic Core Java Program(IntelligentOverridingEx1.java)
+Write a program in java to demonstrate Intelligent Overriding (Runtime polymorphism).
 
-#### Program 148 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 148 Basic Core Java Program(OverloadingEx1.java)
+Write a program in java to demonstrate Method Overloading: changing no. of arguments.
 
-#### Program 149 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 149 Basic Core Java Program(OverloadingEx2.java)
+Write a program in java to demonstrate Method Overloading: changing data type of arguments.
 
-#### Program 150 Basic Core Java Program(characcheck9th16.java)
-Write a program in java to check whether a character is an alphabet, digit or special character.
+#### Program 150 Basic Core Java Program(OverloadingEx3.java)
+Write a program in java to demonstrate overloading java main() method.
+You can have any number of main methods in a class by method overloading.
+But JVM calls main() method which receives string array as arguments only.
+
+#### Program 151 Basic Core Java Program(OverloadingwithTypePromotion.java)
+Write a program in java to demonstrate Method Overloading with Type Promotion.
+
+#### Program 152 Basic Core Java Program(OverloadingEx4.java)
+Write a program in java to demonstrate Method Overloading with Type Promotion if matching found
+If there are matching type arguments in the method, type promotion is not performed.
+
+#### Program 153 Basic Core Java Program(TestOverloading4.java)
+Write a program in java to demonstrate overloading java main() method.
+You can have any number of main methods in a class by method overloading.
+But JVM calls main() method which receives string array as arguments only.
+
+#### Program 154 Basic Core Java Program(CovariantReturnType.java)
+Write a program in java to demonstrate Covariant Return Type.
+(used to override method using return type).
+
+#### Program 155 Basic Core Java Program(SuperEx1.java)
+Write a program in java for implementing super keyword.
+super is used to refer immediate parent class instance variable(Example 1).
+
+#### Program 156 Basic Core Java Program(SuperEx2.java)
+Write a program in java for implementing super keyword.
+super is used to refer immediate parent class instance variable(Example 2).
+
+#### Program 157 Basic Core Java Program(SuperEx3.java)
+Write a program in java for implementing super keyword with method.
+super can be used to invoke parent class method.
+
+#### Program 158 Basic Core Java Program(SuperEx4.java)
+Write a program in java for implementing super keyword for invoking parent class constructor.(Explicitly)
+super is used to invoke parent class constructor(Example 1).
+
+#### Program 159 Basic Core Java Program(SuperEx5.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor(Example 2).
+
+#### Program 160 Basic Core Java Program(SuperEx6.java)
+Write a program in java for implementing super keyword where super() is provided by the compiler implicitly.
+super is used to invoke parent class constructor.
+
+#### Program 161 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
 
 
 ## Adv_Java_Practice
