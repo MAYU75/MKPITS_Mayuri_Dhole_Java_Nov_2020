@@ -360,29 +360,145 @@ Write a program in java to demonstrate method overloading with different no. of 
 #### Program 110 Basic Core Java Program(cal11main.java)
 Write a program in java to demonstrate method overloading with different types of parameters.
 
-#### Program 111 Basic Core Java Program(.java)
-Write a program in java to print the result of dividing two numbers.
+#### Program 111 Basic Core Java Program(avg9th9.java)
+Write a program in java that takes four numbers as input to calculate and print average.
 
-#### Program 112 Basic Core Java Program(divide9th3.java)
-Write a program in java to print the result of dividing two numbers.
+#### Program 112 Basic Core Java Program(xyx9th10.java)
+Write a program in java that takes three numbers (x,y,z) as input and 
+print the output of (x+y).z and x.y + y.z.
 
-#### Program 113 Basic Core Java Program(divide9th3.java)
-Write a program in java to print the result of dividing two numbers.
+#### Program 113 Basic Core Java Program(age9th11.java)
+Write a program in java that takes an age(for example 20) as input and 
+prints something as "You look older than 20".
 
-#### Program 114 Basic Core Java Program(divide9th3.java)
-Write a program in java to print the result of dividing two numbers.
+#### Program 114 Basic Core Java Program(height9th12.java)
+Write a program in java to accept height of a person in centimeter and 
+categorize the person according to their height.
 
-#### Program 115 Basic Core Java Program(divide9th3.java)
-Write a program in java to print the result of dividing two numbers.
+#### Program 115 Basic Core Java Program(largest9th13.java)
+Write a program in java to find largest of three numbers.
 
-#### Program 116 Basic Core Java Program(divide9th3.java)
-Write a program in java to print the result of dividing two numbers.
+#### Program 116 Basic Core Java Program(perdivi9th14.java)
+Write a program in java to read roll no, name and marks of three subjects and 
+calculate the total, percentage and division.
 
-#### Program 117 Basic Core Java Program(divide9th3.java)
-Write a program in java to print the result of dividing two numbers.
+#### Program 117 Basic Core Java Program(tempcenti9th15.java)
+Write a program in java to read temperature in centigrade and display a suitable message.
 
-#### Program 118 Basic Core Java Program(divide9th3.java)
-Write a program in java to print the result of dividing two numbers.
+#### Program 118 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 119 Basic Core Java Program(alphabet9th17.java)
+Write a program in java to check whether an alphabet is a vowel or consonant.
+
+#### Program 120 Basic Core Java Program(profitloss9th18.java)
+Write a program in java to calculate profit and loss on a transaction.
+
+#### Program 121 Basic Core Java Program(electricbill9th19.java)
+Write a program in java to calculate and print the Electricity bill of a given
+customer. The customer id., name and unit consumed by the user should be taken
+from the keyboard and display the total amount to pay to the customer.
+The charge are as follow :
+Unit charge/unit
+upto 199 @1.20
+200 and above but less than 400 @1.50
+400 and above but less than 600 @1.80
+600 and above @2.00
+If bill exceeds Rs. 400 then a surcharge of 15% will be charged
+and the minimum bill should be of Rs. 100/-
+
+#### Program 122 Basic Core Java Program(grade9th20.java)
+Write a program in java to accept a grade and decare the equivalent description :
+Grade Description:
+E Excellent
+V Very Good
+G Good
+A Average
+F Fail
+
+#### Program 123 Basic Core Java Program(daynum9th21.java)
+Write a program in java to read any day number in integer and display day name in word.
+
+#### Program 124 Basic Core Java Program(digit9th22.java)
+Write a program in java to read any digit, display in the word.
+
+#### Program 125 Basic Core Java Program(month9th23.java)
+Write a program in java to read any month number in integer and display month name in word.
+
+#### Program 126 Basic Core Java Program(monthdays9th24.java)
+Write a program in java to read any Month Number in integer and display the number of days for this month.
+
+#### Program 127 Basic Core Java Program(productmainupdate.java)
+Write a program in java to create class product.
+
+#### Program 128 Basic Core Java Program(example1this.java)
+Write a program in java to demonstrate use of this keyword to refer current class book's instance variable bookname.
+
+#### Program 129 Basic Core Java Program(example2this.java)
+Write a program in java to call default constructor from parameterized constructor using this keyword(Example 1).
+
+#### Program 130 Basic Core Java Program(example3this.java)
+Write a program in java to call default constructor from parameterized constructor using this keyword(Example 2).
+
+#### Program 131 Basic Core Java Program(example4this.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 132 Basic Core Java Program(example5this.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 133 Basic Core Java Program(example6this.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 134 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 135 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 136 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 137 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 138 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 139 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 140 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 141 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 142 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 143 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 144 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 145 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 146 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 147 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 148 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 149 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
+
+#### Program 150 Basic Core Java Program(characcheck9th16.java)
+Write a program in java to check whether a character is an alphabet, digit or special character.
 
 
 ## Adv_Java_Practice
