@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd9b059-d657-461e-8c5e-aa6632f2b404" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBufferEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/stringbuffer/StringBufferEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBufferEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/stringbuffer/StringBufferEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringBuilderEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/StringBuilderEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BabyDogPolymorphismEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/BabyDogPolymorphismEx6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\MKPITS\MKPITS_Mayuri_Dhole_Java_Nov_2020\Core_Java_Practice\src\com\mkpits\java\stringbuffer" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
