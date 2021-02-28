@@ -559,6 +559,362 @@ super is used to invoke parent class constructor.
 Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
 super is used to invoke parent class constructor.
 
+#### Program 162 Basic Core Java Program(instanceofEx1main.java)
+Write a program in java to demonstrate java instanceof operator.
+
+#### Program 163 Basic Core Java Program(DoginstanceofEx2.java)
+Write a program in java to demonstrate java instanceof operator.
+An object of subclass type is also a type of parent class.
+
+#### Program 164 Basic Core Java Program(instanceofEx3.java)
+Write a program in java to demonstrate instanceof with a variable that have null value
+If we apply instanceof operator with a variable that have null value, it returns false.
+
+#### Program 165 Basic Core Java Program(DogDowncastingEx1.java)
+Write a program in java to demonstrate Downcasting with java instanceof operator.
+
+#### Program 166 Basic Core Java Program(DogDowncastingEx2.java)
+Write a program in java to demonstrate Downcasting without the use of java instanceof operator.
+
+#### Program 167 Basic Core Java Program(instanceofEx4.java)
+Write a program in java to demonstrate real usage of instanceof operator in java.
+
+#### Program 168 Basic Core Java Program(TestarrayEx1.java)
+Write a program in java to illustrate how to declare, instantiate, initialize
+and traverse the Java array.
+
+#### Program 169 Basic Core Java Program(TestarrayEx2.java)
+Write a program in java to illustrate the use of declaration, instantiation
+and initialization of Java array in a single line.
+
+#### Program 170 Basic Core Java Program(TestarrayEx3.java)
+Write a program in java to print the array elements using for-each loop.
+
+#### Program 171 Basic Core Java Program(TestarrayEx4.java)
+Write a program in java to demonstrate the way of passing an array to method.
+
+#### Program 172 Basic Core Java Program(TestAnonymousArray.java)
+Write a program in java to demonstrate the way of passing an anonymous array to method.
+
+#### Program 173 Basic Core Java Program(TestReturnArray.java)
+Write a program in java to return an array from the method.
+
+#### Program 174 Basic Core Java Program(TestArrayException.java)
+Write a program in java to demonstrate the case of
+ArrayIndexOutOfBoundsException in a Java Array.
+
+#### Program 175 Basic Core Java Program(TestArrayExceptionEx.java)
+Write a program in java to demonstrate how to handle
+ArrayIndexOutOfBoundsException in a Java Array.
+
+#### Program 176 Basic Core Java Program(TestMultidimensionalArray.java)
+Write a program in java to illustrate the use of multidimensional array.
+
+#### Program 177 Basic Core Java Program(TestJaggedArray.java)
+Write a program in java to illustrate the jagged array.
+
+#### Program 178 Basic Core Java Program(TestarrayEx5.java)
+Write a program in java to get the class name of array in Java. In Java, an array is an object.
+
+#### Program 179 Basic Core Java Program(TestCopyArray.java)
+Write a program in java to copy a source array into a destination array in Java.
+
+#### Program 180 Basic Core Java Program(TestCloneArray.java)
+Write a program in java to clone the array.
+
+#### Program 181 Basic Core Java Program(TestMultidimensionalArrayEx1.java)
+Write a program in java to demonstrate the addition of two matrices in Java.
+
+#### Program 182 Basic Core Java Program(MatrixMultiplicationEx.java)
+Write a program in java to multiply two matrices.
+
+#### Program 183 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 184 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 185 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 186 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 187 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 188 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 189 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 190 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 191 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 192 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 193 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 194 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 195 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 196 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 197 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 198 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 199 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 200 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 201 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 202 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 203 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 204 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 205 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 206 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 207 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 208 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 209 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 210 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 211 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 212 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 213 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 214 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 215 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 216 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 217 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 218 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 219 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 220 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 221 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 222 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 223 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 224 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 225 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 226 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 227 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 228 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 229 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 230 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 231 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 232 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 233 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 234 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 235 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 236 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 237 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 238 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 239 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 240 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 241 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 242 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 243 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 244 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 245 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 246 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 247 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 248 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 249 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 250 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 251 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 252 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 253 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
+
+#### Program 254 Basic Core Java Program(SuperEx7.java)
+Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
+super is used to invoke parent class constructor.
 
 ## Adv_Java_Practice
 #### Program 1 (Date)
