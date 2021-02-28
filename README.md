@@ -628,81 +628,62 @@ Write a program in java to demonstrate the addition of two matrices in Java.
 #### Program 182 Basic Core Java Program(MatrixMultiplicationEx.java)
 Write a program in java to multiply two matrices.
 
-#### Program 183 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 183 Basic Core Java Program(StringBuilderEx1.java)
+Write a program in java to demonstrate StringBuilder append() method (Example 1).
 
-#### Program 184 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 184 Basic Core Java Program(StringBuilderEx2.java)
+Write a program in java to demonstrate StringBuilder append() method (Example 2).
 
-#### Program 185 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 185 Basic Core Java Program(StringBuilderEx3.java)
+Write a program in java to demonstrate StringBuilder insert() method.
 
-#### Program 186 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 186 Basic Core Java Program(StringBuilderEx4.java)
+Write a program in java to demonstrate StringBuilder replace() method.
 
-#### Program 187 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 187 Basic Core Java Program(StringBuilderEx5.java)
+Write a program in java to demonstrate StringBuilder delete() method.
 
-#### Program 188 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 188 Basic Core Java Program(StringBuilderEx6.java)
+Write a program in java to demonstrate StringBuilder reverse() method.
 
-#### Program 189 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 189 Basic Core Java Program(StringBuilderEx7.java)
+Write a program in java to demonstrate StringBuilder capacity() method.
 
-#### Program 190 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 190 Basic Core Java Program(StringBuilderEx8.java)
+Write a program in java to demonstrate StringBuilder ensureCapacity() method.
 
-#### Program 191 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 191 Basic Core Java Program(StringBufferEx1.java)
+Write a program in java to demonstrate StringBuffer append() method..
 
-#### Program 192 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 192 Basic Core Java Program(StringBufferEx2.java)
+Write a program in java to demonstrate StringBuffer insert() method (Example 1).
 
-#### Program 193 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 193 Basic Core Java Program(StringBufferEx3.java)
+Write a program in java to demonstrate StringBuffer insert() method (Example 2).
 
-#### Program 194 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 194 Basic Core Java Program(StringBufferEx4.java)
+Write a program in java to demonstrate StringBuffer replace() method (Example 1).
 
-#### Program 195 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 195 Basic Core Java Program(StringBufferEx5.java)
+Write a program in java to demonstrate StringBuffer replace() method (Example 2).
 
-#### Program 196 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 196 Basic Core Java Program(StringBufferEx6.java)
+Write a program in java to demonstrate StringBuffer delete() method (Example 1).
 
-#### Program 197 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 197 Basic Core Java Program(StringBufferEx7.java)
+Write a program in java to demonstrate StringBuffer delete() method (Example 2).
 
-#### Program 198 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 198 Basic Core Java Program(StringBufferEx8.java)
+Write a program in java to demonstrate StringBuffer reverse() method (Example 1).
 
-#### Program 199 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 199 Basic Core Java Program(StringBufferEx9.java)
+Write a program in java to demonstrate StringBuffer reverse() method (Example 2).
 
-#### Program 200 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 200 Basic Core Java Program(StringBufferEx10.java)
+Write a program in java to demonstrate StringBuffer capacity() method.
 
-#### Program 201 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 201 Basic Core Java Program(StringBufferEx11.java)
+Write a program in java to demonstrate StringBuffer ensureCapacity() method.
 
 #### Program 202 Basic Core Java Program(SuperEx7.java)
 Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
