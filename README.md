@@ -803,49 +803,40 @@ Write a program in java to demonstrate Abstraction using Abstract class.
 #### Program 239 Basic Core Java Program(AbstractionEx3.java)
 Write a program in java to demonstrate an abstract class that has abstract and non-abstract methods.
 
-#### Program 240 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 240 Basic Core Java Program(InterfaceEx1.java)
+Write a program in java to demonstrate Interface (Example 1).
 
-#### Program 241 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 241 Basic Core Java Program(InterfaceEx2.java)
+Write a program in java to demonstrate Interface (Example 2: Drawable).
 
-#### Program 242 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 242 Basic Core Java Program(InterfaceEx3.java)
+Write a program in java to demonstrate interface (Example 3).
 
-#### Program 243 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 243 Basic Core Java Program(InterfaceEx4.java)
+Write a program in java to demonstrate java interface which provides the implementation of Bank interface.
 
-#### Program 244 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 244 Basic Core Java Program(InterfaceEx5.java)
+Write a program in java to demonstrate Multiple inheritance by interface.
 
-#### Program 245 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 245 Basic Core Java Program(InterfaceEx6.java)
+Write a program in java to demonstrate Multiple inheritance by interface.
+In this program Printable and Showable interface have same methods but 
+its implementation is provided by class InterfaceEx6, so there is no ambiguity.
 
-#### Program 246 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 246 Basic Core Java Program(InterfaceEx7.java)
+Write a program in java to demonstrate Interface inheritance.
 
-#### Program 247 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 247 Basic Core Java Program(InterfaceDefaultEx8.java)
+Write a program in java to demonstrate Default Method in Interface.
 
-#### Program 248 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 248 Basic Core Java Program(InterfaceStaticEx9.java)
+Write a program in java to demonstrate Static Method in Interface.
 
-#### Program 249 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 249 Basic Core Java Program(NestedInterfaceEx10.java)
+Write a program in java to demonstrate Nested Interface.
 
-#### Program 250 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 250 Basic Core Java Program(InterfaceEx11.java)
+Write a program in java to demonstrate the use of abstract class and interface both in a program.
 
 #### Program 251 Basic Core Java Program(SuperEx7.java)
 Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
