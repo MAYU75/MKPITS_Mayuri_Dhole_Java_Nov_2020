@@ -3,17 +3,13 @@
 //have two java source files containing one public class,
 //but keep the package name same.
 
-//import mkd.*;
-import mkd.A4;
-import mkd.B4;
 
-class testpackmkd
+package mkd;
+
+public class PackagemkdEx4
 {
-	public static void main(String[] arg)
+	public void msg()
 	{
-		A4 a=new A4();
-		a.msg();
-		B4 b=new B4();
-		b.msg();
+		System.out.println("Hello from PackagemkdEx4 class");
 	}
 }

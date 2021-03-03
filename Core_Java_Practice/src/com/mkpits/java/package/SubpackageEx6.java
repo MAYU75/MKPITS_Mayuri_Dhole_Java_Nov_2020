@@ -6,7 +6,7 @@
 
 package com.mk.core;
 
-class SubpackageEx1
+class SubpackageEx6
 {
       public static void main(String args[])
       {

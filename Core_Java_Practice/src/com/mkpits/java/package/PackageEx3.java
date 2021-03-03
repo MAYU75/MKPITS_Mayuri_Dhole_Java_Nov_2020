@@ -7,14 +7,14 @@
 //It is generally used when two packages have same class name
 //e.g. java.util and java.sql packages contain Date class.
 
-//save by B2.java
-package mypack;
 
-class B2
+package pack;
+
+public class PackageEx3
 {
-      public static void main(String args[])
+      public void msg()
       {
-      	 pack.A2 obj = new pack.A2();//using fully qualified name
-      	 obj.msg();
+		  System.out.println("Hello from class PackageEx3 of package pack which is imported in package mypack having class TestPackageEx3.");
       }
 }
+

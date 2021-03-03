@@ -1,7 +1,7 @@
 //Java program Example for Package.
 
 package mypack;
-public class Simple
+public class TestPackageEx5
 {
      public static void main(String args[])
      {

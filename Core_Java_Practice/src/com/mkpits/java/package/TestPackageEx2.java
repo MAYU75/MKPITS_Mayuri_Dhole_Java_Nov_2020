@@ -2,16 +2,16 @@
 //Using packagename.classname
 //If you import package.classname
 //then only declared class of this package will be accessible.
-//save by B1.java
+
 
 package mypack;
-import pack.A1;
+import pack.PackageEx2;
 
-class B1
+class TestPackageEx2
 {
       public static void main(String args[])
       {
-      	 A1 obj = new A1();
+      	 PackageEx2 obj = new PackageEx2();
       	 obj.msg();
       }
 }
