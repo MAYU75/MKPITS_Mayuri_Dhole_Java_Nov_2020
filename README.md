@@ -838,21 +838,67 @@ Write a program in java to demonstrate Nested Interface.
 #### Program 250 Basic Core Java Program(InterfaceEx11.java)
 Write a program in java to demonstrate the use of abstract class and interface both in a program.
 
-#### Program 251 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 251 Basic Core Java Program(PackageEx1.java)(TestPackageEx1.java)
+Write a program in java to access the package from outside the package using packagename.*.
 
-#### Program 252 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 252 Basic Core Java Program(PackageEx2.java)(TestPackageEx2.java)
+Write a program in java to access the package from outside the package using packagename.classname.
 
-#### Program 253 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 253 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
 
-#### Program 254 Basic Core Java Program(SuperEx7.java)
-Write a program in java for implementing super keyword for invoking parent class constructor (explicitly)
-super is used to invoke parent class constructor.
+#### Program 254 Basic Core Java Program(PackageEx4.java)(PackagemkdEx4.java)(TestPackagemkdEx4.java)
+Write a program in java to put two public classes in a package.
+
+#### Program 255 Basic Core Java Program(TestPackageEx5.java)
+Write a program in java to demonstrate package.
+
+#### Program 256 Basic Core Java Program(SubpackageEx6.java)
+Write a program in java to demonstrate Subpackage in java.
+
+#### Program 257 Basic Core Java Program(AccountPackageEx7.java)(TestBankPackageEx7.java)
+Write a program in java for creating package bank having public class AccountPackageEx7 and 
+for importing package bank having public class Account in class TestBankPackageEx7.java source file
+
+#### Program 258 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 259 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 260 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 261 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 262 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 263 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 264 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 265 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 266 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 267 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 268 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 269 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
+#### Program 270 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
+Write a program in java to access the package from outside the package. Using fully qualified name.
+
 
 ## Adv_Java_Practice
 #### Program 1 (Date)
