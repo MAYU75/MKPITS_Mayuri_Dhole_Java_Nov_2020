@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd9b059-d657-461e-8c5e-aa6632f2b404" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/encapsulation/TestEncapsulationSimpleEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/encapsulation/EncapsulationEx2ToCalculateSimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/encapsulation/EncapsulationEx3ToGetAndSetAccountData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/encapsulation/TestEncapsulationEx2ToCalculateSimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/encapsulation/TestEncapsulationEx3ToGetAndSetAccountData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/objectclass/ObjectClassEx1ToDemonstrategetClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/objectclass/ObjectClassEx2ToDemonstrategetClassMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/accessmodifiers/TestAccessModifierEx7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/interface/InterfaceEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/interface/InterfaceEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/interface/InterfaceEx11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/interface/InterfaceEx11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/interface/InterfaceEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/interface/InterfaceEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/interface/InterfaceEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/interface/InterfaceEx7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/interface/InterfaceStaticEx9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/interface/InterfaceStaticEx9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/interface/interfaceEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/interface/interfaceEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/interface/interfaceEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/interface/interfaceEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/cir.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/cir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/interfaceEx2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/interfaceEx2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -37,23 +40,49 @@
       <recent name="C:\Users\hp\Desktop\MKPITS\MKPITS_Mayuri_Dhole_Java_Nov_2020\Core_Java_Practice\src\com\mkpits\java\stringbuffer" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="TestEncapsulationSimpleEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mk.TestEncapsulationSimpleEx1" />
+  <component name="RunManager" selected="Application.ObjectClassEx2ToDemonstrategetClassMethod (1)">
+    <configuration name="ObjectClassEx1ToDemonstrategetClassMethod (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectClassEx1ToDemonstrategetClassMethod" />
       <module name="Core_Java_Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectClassEx1ToDemonstrategetClassMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkpits.java.objectclass.ObjectClassEx1ToDemonstrategetClassMethod" />
+      <module name="Core_Java_Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectClassEx2ToDemonstrategetClassMethod (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectClassEx2ToDemonstrategetClassMethod" />
+      <module name="Core_Java_Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectClassEx2ToDemonstrategetClassMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mkpits.java.objectclass.ObjectClassEx2ToDemonstrategetClassMethod" />
+      <module name="Core_Java_Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEncapsulationEx3ToGetAndSetAccountData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestEncapsulationEx3ToGetAndSetAccountData" />
+      <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestEncapsulationSimpleEx1" />
+        <item itemvalue="Application.ObjectClassEx2ToDemonstrategetClassMethod (1)" />
+        <item itemvalue="Application.ObjectClassEx2ToDemonstrategetClassMethod" />
+        <item itemvalue="Application.ObjectClassEx1ToDemonstrategetClassMethod (1)" />
+        <item itemvalue="Application.ObjectClassEx1ToDemonstrategetClassMethod" />
+        <item itemvalue="Application.TestEncapsulationEx3ToGetAndSetAccountData" />
       </list>
     </recent_temporary>
   </component>
