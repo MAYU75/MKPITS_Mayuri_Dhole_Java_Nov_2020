@@ -860,26 +860,28 @@ Write a program in java to demonstrate Subpackage in java.
 Write a program in java for creating package bank having public class AccountPackageEx7 and 
 for importing package bank having public class Account in class TestBankPackageEx7.java source file
 
-#### Program 258 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 258 Basic Core Java Program(PrivateAccessModifierEx1.java)
+Write a program in java to demonstrate Private access modifier.
 
-#### Program 259 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 259 Basic Core Java Program(DefaultAccessModifierEx2.java)(TestDefaultAccessModifierEx2.java)
+Write a program in java to demonstrate Default access modifier.
 
-#### Program 260 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 260 Basic Core Java Program(AccountDefaultAccessModifierEx3.java)(TestDefaultAccessModifierEx3.java)
+Write a program in java to demonstrate default access modifier using package bank and class Account.
 
-#### Program 261 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 261 Basic Core Java Program(ParentClassProtectedAccessModifierEx4.java)(TestChildClassProtectedAccessModifierEx4.java)
+Write a program in java to demonstrate Protected access modifier (Example 1).
 
-#### Program 262 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 262 Basic Core Java Program(ProtectedAccessModifierEx5.java)(TestProtectedAccessModifierEx5.java)
+Write a program in java to demonstrate protected access modifier (Example 2).
 
-#### Program 263 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 263 Basic Core Java Program(PublicAccessModifierEx6.java)(TestPublicAccessModifierEx6.java)
+Write a program in java to demonstrate public access modifier.
 
-#### Program 264 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 264 Basic Core Java Program(TestAccessModifierEx7.java)
+Write a program in java to demonstrate Access Modifiers with Method Overriding.
+If you are overriding any method, overridden method
+(i.e. declared in subclass) must not be more restrictive..
 
 #### Program 265 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
 Write a program in java to access the package from outside the package. Using fully qualified name.
