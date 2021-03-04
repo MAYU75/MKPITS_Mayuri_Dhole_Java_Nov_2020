@@ -2,12 +2,12 @@
 //In this example, the Printable interface has only one method,
 //and its implementation is provided in the InterfaceEx1 class.
 
-interface printable
+interface printableEx1
 {
     void print();
 }
 
-class InterfaceEx1 implements printable
+class InterfaceEx1 implements printableEx1
 {
     public void print()
     {

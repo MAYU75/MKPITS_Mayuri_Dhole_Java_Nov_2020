@@ -13,7 +13,7 @@ class cir implements shape
 	}
 }
 
-class interfaceEx2
+class InterfaceEx2
 {
 	public static void main(String[] arg)
 	{

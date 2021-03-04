@@ -1,13 +1,13 @@
 //Java program Example to demonstrate interface in java.
 //Interface declaration: by first user
 
-interface Drawable
+interface DrawableEx3
 {
 	void draw();
 }
 
 //Implementation: by second user
-class Rectangle implements Drawable
+class RectangleEx3 implements DrawableEx3
 {
     public void draw()
     {
@@ -15,7 +15,7 @@ class Rectangle implements Drawable
 	}
 }
 
-class Circle implements Drawable
+class Circle implements DrawableEx3
 {
     public void draw()
     {
@@ -28,7 +28,7 @@ class InterfaceEx3
 {
     public static void main(String args[])
     {
-    	Drawable d=new Circle();//In real scenario, object is provided by method e.g. getDrawable()
+    	DrawableEx3 d=new Circle();//In real scenario, object is provided by method e.g. getDrawable()
     	d.draw();
     }
 }

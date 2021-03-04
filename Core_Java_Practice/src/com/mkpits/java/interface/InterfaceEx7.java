@@ -1,15 +1,15 @@
 //Java program to demonstrate Interface inheritance.
 //A class implements an interface, but one interface extends another interface.
 
-interface Printable {
+interface PrintableEx7 {
     void print();
 }
 
-interface Showable extends Printable {
+interface ShowableEx7 extends PrintableEx7 {
     void show();
 }
 
-class InterfaceEx7 implements Showable {
+class InterfaceEx7 implements ShowableEx7 {
     public void print() {
 		System.out.println("Hello");
 	}
