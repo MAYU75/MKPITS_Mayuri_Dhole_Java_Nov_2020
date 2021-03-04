@@ -878,22 +878,24 @@ Write a program in java to demonstrate protected access modifier (Example 2).
 #### Program 263 Basic Core Java Program(PublicAccessModifierEx6.java)(TestPublicAccessModifierEx6.java)
 Write a program in java to demonstrate public access modifier.
 
-#### Program 264 Basic Core Java Program(TestAccessModifierEx7.java)
-Write a program in java to demonstrate Access Modifiers with Method Overriding.
-If you are overriding any method, overridden method
-(i.e. declared in subclass) must not be more restrictive..
+#### Program 264 Basic Core Java Program(EncapsulationSimpleEx1.java)(TestEncapsulationSimpleEx1.java)
+Write a program in java to demonstrate Encapsulation.
+This is a simple example of encapsulation that has only one field with its setter and getter methods.
 
-#### Program 265 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 265 Basic Core Java Program(EncapsulationEx2ToCalculateSimpleInterest.java)(TestEncapsulationEx2ToCalculateSimpleInterest.java)
+Write a program in java to demonstrate Encapsulation and 
+calculate Simple Interest using setter method named SetRateOfInterest.
+This is a simple example of encapsulation that has only one field with its setter and getter methods.
 
-#### Program 266 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 266 Basic Core Java Program(EncapsulationEx3ToGetAndSetAccountData.java)(TestEncapsulationEx3ToGetAndSetAccountData.java)
+Write a program in java to demonstrate Encapsulation.
+Example of encapsulation that has only four fields with its setter and getter methods.
 
-#### Program 267 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 267 Basic Core Java Program(ObjectClassEx1ToDemonstrategetClassMethod.java)
+Write a program in java to demonstrate getClass() method of Object class (Example 1).
 
-#### Program 268 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 268 Basic Core Java Program(ObjectClassEx2ToDemonstrategetClassMethod.java)
+Write a program in java to demonstrate getClass() method of Object class (Example 2).
 
 #### Program 269 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
 Write a program in java to access the package from outside the package. Using fully qualified name.
