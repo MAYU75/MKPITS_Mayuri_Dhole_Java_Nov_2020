@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd9b059-d657-461e-8c5e-aa6632f2b404" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/encapsulation/EncapsulationEx2ToCalculateSimpleInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/encapsulation/EncapsulationEx3ToGetAndSetAccountData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/encapsulation/TestEncapsulationEx2ToCalculateSimpleInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/encapsulation/TestEncapsulationEx3ToGetAndSetAccountData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/objectclass/ObjectClassEx1ToDemonstrategetClassMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/objectclass/ObjectClassEx2ToDemonstrategetClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx10ConcatMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx11ReplaceMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx12ReplaceMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx6SubStringMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx7ContainsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx8EqualsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx9isEmptyMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/cir.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/cir.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/interfaceEx2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/interfaceEx2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Core_Java_Practice/shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Core_Java_Practice/shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatrixMultiplicationEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestAnonymousArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestArrayException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestArrayExceptionEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCloneArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCopyArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestJaggedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestMultidimensionalArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestMultidimensionalArrayEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestReturnArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestarrayEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestarrayEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestarrayEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestarrayEx4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestarrayEx5.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,37 +51,37 @@
       <recent name="C:\Users\hp\Desktop\MKPITS\MKPITS_Mayuri_Dhole_Java_Nov_2020\Core_Java_Practice\src\com\mkpits\java\stringbuffer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ObjectClassEx2ToDemonstrategetClassMethod (1)">
-    <configuration name="ObjectClassEx1ToDemonstrategetClassMethod (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectClassEx1ToDemonstrategetClassMethod" />
+  <component name="RunManager" selected="Application.StringEx12ReplaceMethod">
+    <configuration name="StringEx10ConcatMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringEx10ConcatMethod" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectClassEx1ToDemonstrategetClassMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mkpits.java.objectclass.ObjectClassEx1ToDemonstrategetClassMethod" />
+    <configuration name="StringEx11ReplaceMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringEx11ReplaceMethod" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectClassEx2ToDemonstrategetClassMethod (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectClassEx2ToDemonstrategetClassMethod" />
+    <configuration name="StringEx12ReplaceMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringEx12ReplaceMethod" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectClassEx2ToDemonstrategetClassMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mkpits.java.objectclass.ObjectClassEx2ToDemonstrategetClassMethod" />
+    <configuration name="StringEx6SubStringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringEx6SubStringMethod" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestEncapsulationEx3ToGetAndSetAccountData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestEncapsulationEx3ToGetAndSetAccountData" />
+    <configuration name="StringEx9isEmptyMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringEx9isEmptyMethod" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ObjectClassEx2ToDemonstrategetClassMethod (1)" />
-        <item itemvalue="Application.ObjectClassEx2ToDemonstrategetClassMethod" />
-        <item itemvalue="Application.ObjectClassEx1ToDemonstrategetClassMethod (1)" />
-        <item itemvalue="Application.ObjectClassEx1ToDemonstrategetClassMethod" />
-        <item itemvalue="Application.TestEncapsulationEx3ToGetAndSetAccountData" />
+        <item itemvalue="Application.StringEx12ReplaceMethod" />
+        <item itemvalue="Application.StringEx11ReplaceMethod" />
+        <item itemvalue="Application.StringEx10ConcatMethod" />
+        <item itemvalue="Application.StringEx6SubStringMethod" />
+        <item itemvalue="Application.StringEx9isEmptyMethod" />
       </list>
     </recent_temporary>
   </component>
