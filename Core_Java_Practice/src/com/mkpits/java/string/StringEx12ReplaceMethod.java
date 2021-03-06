@@ -4,7 +4,7 @@
 import java.util.*;
 
 class StringEx12ReplaceMethod {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         String fname = "Mayorp Dhole";
 
         String fullname = fname.replace("orp", "uri");
