@@ -897,11 +897,116 @@ Write a program in java to demonstrate getClass() method of Object class (Exampl
 #### Program 268 Basic Core Java Program(ObjectClassEx2ToDemonstrategetClassMethod.java)
 Write a program in java to demonstrate getClass() method of Object class (Example 2).
 
-#### Program 269 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 269 Basic Core Java Program(ObjectCloningSimpleEx1.java)
+Write a program in java to demonstrate clone() method (Object cloning) by cloning student data.
 
-#### Program 270 Basic Core Java Program(PackageEx3.java)(TestPackageEx3.java)
-Write a program in java to access the package from outside the package. Using fully qualified name.
+#### Program 270 Basic Core Java Program(ObjectCloningEmployeeEx2.java)
+Write a program in java to demonstrate clone() method (Object cloning) by cloning employee data.
+
+#### Program 271 Basic Core Java Program(CallByValueEx1.java)
+Write a program in java to demonstrate Call by Value. No change in data.
+
+#### Program 272 Basic Core Java Program(CallByValueEx2.java)
+Write a program in java to demonstrate Call by Value. Here data is changed.
+
+#### Program 273 Basic Core Java Program(StringEx1ToPrintString.java)
+Write a program in java to print given String.
+
+#### Program 274 Basic Core Java Program(StringEx2ToPrintDifferentStrings.java)
+Write a program in java to print different Strings.
+
+#### Program 275 Basic Core Java Program(StringEx3charAtMethod.java)
+Write a program in java to demonstrate String class method charAt(int index).
+
+#### Program 276 Basic Core Java Program(StringEx4LengthCharAtMethod.java)
+Write a program in java to demonstrate String class methods length() and charAt(int index).
+
+#### Program 277 Basic Core Java Program(StringEx5SubStringMethod.java)
+Write a program in java to demonstrate String class method substring(int beginIndex).
+
+#### Program 278 Basic Core Java Program(StringEx6SubStringMethod.java)
+Write a program in java to demonstrate String class method substring(int beginIndex, int endIndex).
+
+#### Program 279 Basic Core Java Program(StringEx7ContainsMethod.java)
+Write a program in java to demonstrate String class method contains(CharSequence s).
+
+#### Program 280 Basic Core Java Program(StringEx8EqualsMethod.java)
+Write a program in java to demonstrate String class method boolean equals(Object another).
+
+#### Program 281 Basic Core Java Program(StringEx9isEmptyMethod.java)
+Write a program in java to demonstrate String class method boolean isEmpty().
+
+#### Program 282 Basic Core Java Program(StringEx10ConcatMethod.java)
+Write a program in java to demonstrate String class method String concat(String str).
+
+#### Program 283 Basic Core Java Program(StringEx11ReplaceMethod.java)
+Write a program in java to demonstrate String class method String replace(char old, char new).
+
+#### Program 284 Basic Core Java Program(StringEx12ReplaceMethod.java)
+Write a program in java to demonstrate String class method String replace(CharSequence old, CharSequence new).
+
+#### Program 285 Basic Core Java Program(StringEx13equalsIgnoreCaseMethod.java)
+Write a program in java to demonstrate String class method static String equalsIgnoreCase(String another).
+
+#### Program 286 Basic Core Java Program(StringEx14SplitMethod.java)
+Write a program in java to demonstrate String class method String[] split(String regex).
+
+#### Program 287 Basic Core Java Program(StringEx15SplitMethod.java)
+Write a program in java to demonstrate String class method String[] split(String regex, int limit).
+
+#### Program 288 Basic Core Java Program(StringEx16indexOfMethod.java)
+Write a program in java to demonstrate String class method int indexOf(int ch).
+
+#### Program 289 Basic Core Java Program(StringEx17indexOfMethod.java)
+Write a program in java to demonstrate String class method int indexOf(String substring, int fromIndex).
+
+#### Program 290 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 291 Basic Core Java Program(StringEx19toUpperCaseMethod.java)
+Write a program in java to demonstrate String class method String toUpperCase().
+
+#### Program 292 Basic Core Java Program(StringEx20trimMethod.java)
+Write a program in java to demonstrate String class method String trim().
+
+#### Program 293 Basic Core Java Program(StringEx21valueOfMethod.java)
+Write a program in java to demonstrate String class method static String valueOf(int value).
+
+#### Program 294 Basic Core Java Program(ImmutableClassEx1.java)
+Write a program in java to demonstrate Immutable Class.
+
+#### Program 295 Basic Core Java Program(Ex1ToDemonstrateProblemWithoutToStringMethod.java)
+Write a program in java to demonstrate problem without toString() method.
+
+#### Program 296 Basic Core Java Program(Ex2ToDemonstrateToStringMethod.java)
+Write a program in java to demonstrate toString() method.
+
+#### Program 297 Basic Core Java Program(StringTokenizerEx1ToTokenizeString.java)
+Write a program in java that demonstrate how StringTokenizer class tokenizes a string.
+
+#### Program 298 Basic Core Java Program(StringTokenizerEx2NextTokenMethod.java)
+Write a program in java that demonstrate nextToken(String delim) method of StringTokenizer class.
+
+#### Program 299 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 300 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 301 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 302 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 303 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 304 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 305 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+Write a program in java to demonstrate String class method String toLowerCase().
 
 
 ## Adv_Java_Practice
