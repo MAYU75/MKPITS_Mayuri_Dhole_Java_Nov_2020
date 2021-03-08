@@ -2,24 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd9b059-d657-461e-8c5e-aa6632f2b404" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/immutableclass/ImmutableClassEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx13equalsIgnoreCaseMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx14SplitMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx15SplitMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx16indexOfMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx17indexOfMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx18toLowerCaseMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx19toUpperCaseMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx20trimMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx21valueOfMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/stringtokenizer/StringTokenizerEx1ToTokenizeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/stringtokenizer/StringTokenizerEx2NextTokenMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/tostringmethod/Ex1ToDemonstrateProblemWithoutToStringMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/tostringmethod/Ex2ToDemonstrateToStringMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandling/ExceptionHandlingEx1ToDemonstrateCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandling/ExceptionHandlingEx2ToDemonstrateFinallyBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandling/ExceptionHandlingEx3ToDemonstrateTryCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandlingwithoverriding/ExceptionHandlingWithOverridingEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandlingwithoverriding/ExceptionHandlingWithOverridingEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandlingwithoverriding/ExceptionHandlingWithOverridingEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandlingwithoverriding/ExceptionHandlingWithOverridingEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/finallyblock/FinallyBlockEx1WithNoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/finallyblock/FinallyBlockEx2WhereExceptionOccursAndNotHandled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/finallyblock/FinallyBlockEx3WhereExceptionOccursAndHandled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/multiplecatch/MultipleCatchEx3TwoExceptionsInTryBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/multiplecatch/MultipleCatchEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/multiplecatch/MultipleCatchEx5NullPointerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/nestedtryblock/NestedTryBlockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx10ToHandleCheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx1ArithmeticException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx2TryCatchForArithmeticException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx3TryCatchForArithmeticException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx4HandlingExceptionUsingExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx5ToPrintCustomMessageOnException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx6ToResolveExceptionInCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx7ToEncloseExceptionCodeInCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx8ToHandleGeneratedExceptionWithDifferentTypeOfExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx9ToHandleAnotherUncheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/callbyvalueandcallbyreference/CallByValueEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/callbyvalueandcallbyreference/CallByValueEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx12ReplaceMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/string/StringEx12ReplaceMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/2DArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,37 +55,37 @@
       <recent name="C:\Users\hp\Desktop\MKPITS\MKPITS_Mayuri_Dhole_Java_Nov_2020\Core_Java_Practice\src\com\mkpits\java\stringbuffer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringTokenizerEx2NextTokenMethod">
-    <configuration name="Ex1ToDemonstrateProblemWithoutToStringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex1ToDemonstrateProblemWithoutToStringMethod" />
+  <component name="RunManager" selected="Application.TwoDimensionalArrayEx">
+    <configuration name="FinallyBlockEx1WithNoException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinallyBlockEx1WithNoException" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2ToDemonstrateToStringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex2ToDemonstrateToStringMethod" />
+    <configuration name="FinallyBlockEx2WhereExceptionOccursAndNotHandled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinallyBlockEx2WhereExceptionOccursAndNotHandled" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableClassEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ImmutableClassEx1" />
+    <configuration name="FinallyBlockEx3WhereExceptionOccursAndHandled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinallyBlockEx3WhereExceptionOccursAndHandled" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTokenizerEx1ToTokenizeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTokenizerEx1ToTokenizeString" />
+    <configuration name="NestedTryBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NestedTryBlockExample" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTokenizerEx2NextTokenMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTokenizerEx2NextTokenMethod" />
+    <configuration name="TwoDimensionalArrayEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoDimensionalArrayEx" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringTokenizerEx2NextTokenMethod" />
-        <item itemvalue="Application.StringTokenizerEx1ToTokenizeString" />
-        <item itemvalue="Application.Ex2ToDemonstrateToStringMethod" />
-        <item itemvalue="Application.Ex1ToDemonstrateProblemWithoutToStringMethod" />
-        <item itemvalue="Application.ImmutableClassEx1" />
+        <item itemvalue="Application.TwoDimensionalArrayEx" />
+        <item itemvalue="Application.FinallyBlockEx3WhereExceptionOccursAndHandled" />
+        <item itemvalue="Application.FinallyBlockEx2WhereExceptionOccursAndNotHandled" />
+        <item itemvalue="Application.FinallyBlockEx1WithNoException" />
+        <item itemvalue="Application.NestedTryBlockExample" />
       </list>
     </recent_temporary>
   </component>

@@ -1,6 +1,6 @@
 //9) Java program to create a 2d array of 3 rows and 3 cols.
 import java.util.Scanner;
-class 2DArray
+class TwoDimensionalArrayEx
 {
 	public static void main(String[] args)
 	{
