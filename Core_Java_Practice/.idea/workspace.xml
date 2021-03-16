@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cd9b059-d657-461e-8c5e-aa6632f2b404" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandling/ExceptionHandlingEx1ToDemonstrateCatchBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandling/ExceptionHandlingEx2ToDemonstrateFinallyBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandling/ExceptionHandlingEx3ToDemonstrateTryCatchBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandlingwithoverriding/ExceptionHandlingWithOverridingEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandlingwithoverriding/ExceptionHandlingWithOverridingEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandlingwithoverriding/ExceptionHandlingWithOverridingEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionhandlingwithoverriding/ExceptionHandlingWithOverridingEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/finallyblock/FinallyBlockEx1WithNoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/finallyblock/FinallyBlockEx2WhereExceptionOccursAndNotHandled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/finallyblock/FinallyBlockEx3WhereExceptionOccursAndHandled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/multiplecatch/MultipleCatchEx3TwoExceptionsInTryBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/multiplecatch/MultipleCatchEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/multiplecatch/MultipleCatchEx5NullPointerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/nestedtryblock/NestedTryBlockExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx10ToHandleCheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx1ArithmeticException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx2TryCatchForArithmeticException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx3TryCatchForArithmeticException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx4HandlingExceptionUsingExceptionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx5ToPrintCustomMessageOnException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx6ToResolveExceptionInCatchBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx7ToEncloseExceptionCodeInCatchBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx8ToHandleGeneratedExceptionWithDifferentTypeOfExceptionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/trycatch/TryCatchEx9ToHandleAnotherUncheckedException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionpropagation/ExceptionPropagationEx2WithMultipleCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionpropagation/ExceptionPropagationEx3WithMultipleCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mkpits/java/exceptionpropagation/ExceptionPropagationEx4ForCheckedExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mkpits/java/array/2DArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,37 +25,39 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\MKPITS\MKPITS_Mayuri_Dhole_Java_Nov_2020\Core_Java_Practice\src\com\mkpits\java\array" />
       <recent name="C:\Users\hp\Desktop\MKPITS\MKPITS_Mayuri_Dhole_Java_Nov_2020\Core_Java_Practice\src\com\mkpits\java\stringbuffer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoDimensionalArrayEx">
-    <configuration name="FinallyBlockEx1WithNoException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinallyBlockEx1WithNoException" />
+  <component name="RunManager" selected="Application.ExceptionPropagationEx4ForCheckedException">
+    <configuration name="ExceptionPropagationEx1ToHandleArithmeticException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionPropagationEx1ToHandleArithmeticException" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinallyBlockEx2WhereExceptionOccursAndNotHandled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinallyBlockEx2WhereExceptionOccursAndNotHandled" />
+    <configuration name="ExceptionPropagationEx2WithMultipleCatchBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionPropagationEx2WithMultipleCatchBlock" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinallyBlockEx3WhereExceptionOccursAndHandled" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinallyBlockEx3WhereExceptionOccursAndHandled" />
+    <configuration name="ExceptionPropagationEx3WithMultipleCatchBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionPropagationEx3WithMultipleCatchBlock" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedTryBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedTryBlockExample" />
+    <configuration name="ExceptionPropagationEx4ForCheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionPropagationEx4ForCheckedException" />
       <module name="Core_Java_Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionPropagationEx4ForCheckedException" />
+        <item itemvalue="Application.ExceptionPropagationEx2WithMultipleCatchBlock" />
+        <item itemvalue="Application.ExceptionPropagationEx3WithMultipleCatchBlock" />
+        <item itemvalue="Application.ExceptionPropagationEx1ToHandleArithmeticException" />
         <item itemvalue="Application.TwoDimensionalArrayEx" />
-        <item itemvalue="Application.FinallyBlockEx3WhereExceptionOccursAndHandled" />
-        <item itemvalue="Application.FinallyBlockEx2WhereExceptionOccursAndNotHandled" />
-        <item itemvalue="Application.FinallyBlockEx1WithNoException" />
-        <item itemvalue="Application.NestedTryBlockExample" />
       </list>
     </recent_temporary>
   </component>

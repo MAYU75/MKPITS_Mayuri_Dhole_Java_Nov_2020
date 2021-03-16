@@ -1,5 +1,7 @@
 //Java Program to demonstrate the way of passing an anonymous array to method.
 
+package src.com.mkpits.java.array;
+
 public class TestAnonymousArray
 {
     //creating a method which receives an array as a parameter
