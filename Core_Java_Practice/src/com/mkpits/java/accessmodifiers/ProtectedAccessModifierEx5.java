@@ -4,7 +4,7 @@
 //But msg method of this package is declared as protected,
 //so it can be accessed from outside the class only through inheritance.
 
-package pack;
+package accessmodifiers.pack;
 
 public class ProtectedAccessModifierEx5 {
     protected void msg() {

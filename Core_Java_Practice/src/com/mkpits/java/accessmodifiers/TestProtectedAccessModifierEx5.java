@@ -4,11 +4,11 @@
 //But msg method of this package is declared as protected,
 //so it can be accessed from outside the class only through inheritance.
 
-package mypack;
-import pack.*;
+package accessmodifiers.mypack;
+import accessmodifiers.pack.*;
 
 class TestProtectedAccessModifierEx5 extends ProtectedAccessModifierEx5 {
-	public static void main(String args[]) {
+	public static void main(String[] args) {
        TestProtectedAccessModifierEx5 obj = new TestProtectedAccessModifierEx5();
        obj.msg();
     }
