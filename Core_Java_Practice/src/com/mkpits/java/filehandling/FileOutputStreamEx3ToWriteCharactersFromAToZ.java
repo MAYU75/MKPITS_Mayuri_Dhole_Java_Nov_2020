@@ -1,3 +1,5 @@
+package src.com.mkpits.java.filehandling;
+
 //Java program to create a file and write characters from A to Z using FileOutputStream class.
 
 import java.io.FileOutputStream;

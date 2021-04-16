@@ -1,6 +1,6 @@
 //Java program to print integer and string value to file using PrintStream class.
 
-package src.com.mkpits.java.io;
+package src.com.mkpits.java.filehandling;
 
 import java.io.FileOutputStream;
 import java.io.PrintStream;

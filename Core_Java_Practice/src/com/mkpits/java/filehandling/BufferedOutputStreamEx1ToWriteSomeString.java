@@ -4,7 +4,7 @@ package src.com.mkpits.java.filehandling;
 
 import java.io.*;
 
-class BufferedOutputStreamEx2ToWriteSomeString {
+class BufferedOutputStreamEx1ToWriteSomeString {
     public static void main(String[] args) throws Exception {
         FileOutputStream fout = new FileOutputStream("E:\\myfile3.txt");
         BufferedOutputStream bout = new BufferedOutputStream(fout);

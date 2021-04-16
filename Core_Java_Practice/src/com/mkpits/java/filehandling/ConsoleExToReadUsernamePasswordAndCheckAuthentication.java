@@ -1,7 +1,7 @@
 //Java program to accept username and password and print "authentication successful" if user entered
 //username as admin and password as admin otherwise print "invalid credentials".
 
-package src.com.mkpits.java.io;
+package src.com.mkpits.java.filehandling;
 import java.io.*;
 
 class ConsoleExToReadUsernamePasswordAndCheckAuthentication {

@@ -1,6 +1,6 @@
 //Java program to write some string to console and into a file using PrintWriter class.
 
-package src.com.mkpits.java.io;
+package src.com.mkpits.java.filehandling;
 
 import java.io.File;
 import java.io.PrintWriter;

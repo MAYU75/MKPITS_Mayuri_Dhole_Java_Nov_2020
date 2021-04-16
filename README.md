@@ -1077,6 +1077,111 @@ Write a program in java to demonstrate String class method String toLowerCase().
 #### Program 328 Basic Core Java Program(ExceptionPropagationEx4ForCheckedException.java)
 Write a program in java to demonstrate String class method String toLowerCase().
 
+#### Program 329 Basic Core Java Program(FileOutputStreamEx1ToWriteByte.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 330 Basic Core Java Program(FileOutputStreamEx2ToWriteString.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 331 Basic Core Java Program(FileOutputStreamEx3ToWriteCharactersFromAToZ.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 332 Basic Core Java Program(FileInputStreamEx1ToReadSingleCharacter.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 333 Basic Core Java Program(FileInputStreamEx2ToReadAllCharacters.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 334 Basic Core Java Program(BufferedInputStreamEx1ToReadDataOfFile.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 335 Basic Core Java Program(BufferedOutputStreamEx1ToWriteSomeString.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 336 Basic Core Java Program(SequenceInputStreamExToPrintDataOfTwoFiles.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 337 Basic Core Java Program(SequenceInputStreamExThatReadsDataUsingEnumeration.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 338 Basic Core Java Program(CharArrayWriterExToWriteACommonDataTo4Files.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 339 Basic Core Java Program(ConsoleExToAcceptPassword.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 340 Basic Core Java Program(ConsoleExToReadUsernamePasswordAndCheckAuthentication.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 341 Basic Core Java Program(ConsoleReadlineMethodExToAcceptName.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 342 Basic Core Java Program(FileReaderExToReadDataFromTextFile.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 343 Basic Core Java Program(FileWriterExToWriteData.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 344 Basic Core Java Program(InputStreamReaderExToReadTextFromFile.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 345 Basic Core Java Program(PrintStreamExToPrintIntegerAndStringValue.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 346 Basic Core Java Program(PrintWriterExToSimultaneouslyWriteAndReadDataFromFile.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 347 Basic Core Java Program(PrintWriterExToWriteDataOnConsoleAndInTextFile.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 348 Basic Core Java Program(ExToCreateAFrameByExtendingFrameClass.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 349 Basic Core Java Program(ExToCreateACalculatorByExtendingFrameClass.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 350 Basic Core Java Program(ExToCreateFrameByCreatingObjectOfFrameClass.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 351 Basic Core Java Program(ExToCreateACalculatorByCreatingObjectOfFrameClass.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 352 Basic Core Java Program(ExOfEventHandlingWithinClass.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 353 Basic Core Java Program(ExOfEventHandlingWithinClassWithTwoButtons.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 354 Basic Core Java Program(ExOfEventHandlingByOuterClass.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 355 Basic Core Java Program(ExOfEventHandlingByAnonymousClassWithTwoButtons.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 356 Basic Core Java Program(ExOfEventHandlingToAcceptTwoNumbersAndDisplayAddition.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 357 Basic Core Java Program(ExOfEventHandlingToAcceptTwoNumbersAndPerformArithmeticOperations.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 358 Basic Core Java Program(ExToDemonstrateHowToAddTextFieldInFrame.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 359 Basic Core Java Program(AwtTextFieldExWithActionListener.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 360 Basic Core Java Program(ExToDemonstrateHowToAddTextAreaInFrame.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 361 Basic Core Java Program(AwtTextAreaExWithActionListener.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 362 Basic Core Java Program(ExToDemonstrateHowToAddPanel.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+
+
+
 
 ## Adv_Java_Practice
 #### Program 1 (Date)

@@ -1,3 +1,5 @@
+package src.com.mkpits.java.filehandling;
+
 //Java program for writing a common data to 4 files File2.txt, File3.txt, File4.txt and File5.txt
 // using chararraywriter class.
 

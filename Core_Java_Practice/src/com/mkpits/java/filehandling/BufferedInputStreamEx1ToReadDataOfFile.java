@@ -1,3 +1,5 @@
+package src.com.mkpits.java.filehandling;
+
 //Java program to read data of file using BufferedInputStream class.
 
 import java.io.*;

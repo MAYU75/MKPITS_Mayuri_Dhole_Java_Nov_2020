@@ -1,3 +1,5 @@
+package src.com.mkpits.java.filehandling;
+
 //Java program to read text from file using InputStreamReader class.
 
 import java.io.*;

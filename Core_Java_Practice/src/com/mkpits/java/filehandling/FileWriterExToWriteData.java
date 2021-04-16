@@ -1,3 +1,5 @@
+package src.com.mkpits.java.filehandling;
+
 //Java program for writing some string in the file File1.txt using Java FileWriter class.
 
 import java.io.FileWriter;

@@ -4,10 +4,10 @@ package src.com.mkpits.java.filehandling;
 
 import java.io.FileInputStream;
 
-class FileStreamEx1ToReadSingleCharacter {
+class FileInputStreamEx1ToReadSingleCharacter {
     public static void main(String[] args) {
         try {
-            FileInputStream fin = new FileInputStream("E:\\myfile1.txt");
+            FileInputStream fin = new FileInputStream("D:\\a.txt");
             int i = fin.read();
             System.out.print((char) i);
 

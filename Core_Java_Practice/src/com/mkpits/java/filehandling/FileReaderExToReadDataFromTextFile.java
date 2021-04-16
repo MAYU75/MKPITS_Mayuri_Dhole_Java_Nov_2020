@@ -1,3 +1,5 @@
+package src.com.mkpits.java.filehandling;
+
 //Java program to read data from the file using FileReader class.
 
 import java.io.FileReader;

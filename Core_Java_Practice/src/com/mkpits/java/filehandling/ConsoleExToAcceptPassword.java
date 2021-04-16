@@ -1,3 +1,5 @@
+package src.com.mkpits.java.filehandling;
+
 //Java program to accept password using console class.
 
 import java.io.Console;

@@ -1,3 +1,5 @@
+package src.com.mkpits.java.filehandling;
+
 //Java program for printing the data of two files myfile2.txt and myfile3.txt using
 // SequenceInputStream class.
 

@@ -1,6 +1,6 @@
 //Java program to simultaneous writing and reading data from a file
 
-package src.com.mkpits.java.io;
+package src.com.mkpits.java.filehandling;
 
 import java.io.*;
 import java.util.*;
