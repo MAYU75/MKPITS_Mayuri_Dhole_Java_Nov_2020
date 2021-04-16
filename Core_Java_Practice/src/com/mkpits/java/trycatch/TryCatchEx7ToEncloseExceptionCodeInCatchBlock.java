@@ -1,3 +1,5 @@
+package src.com.mkpits.java.trycatch;
+
 //Java program to demonstrate what happens when along with try block, we also enclose exception code in a catch block.
 
 public class TryCatchEx7ToEncloseExceptionCodeInCatchBlock {

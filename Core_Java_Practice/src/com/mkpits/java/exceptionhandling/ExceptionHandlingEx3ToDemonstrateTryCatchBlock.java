@@ -1,3 +1,5 @@
+package src.com.mkpits.java.exceptionhandling;
+
 //Java program to demonstrate try-catch block.
 
 public class ExceptionHandlingEx3ToDemonstrateTryCatchBlock {

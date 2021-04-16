@@ -1,3 +1,5 @@
+package src.com.mkpits.java.exceptionhandlingwithoverriding;
+
 //Java program to demonstrate what happens if the superclass method does not declare an exception.
 //If the superclass method does not declare an exception,
 //subclass overridden method cannot declare the checked exception but can declare unchecked exception.

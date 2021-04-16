@@ -1,3 +1,5 @@
+package src.com.mkpits.java.multiplecatch;
+
 //Java program to demonstrate multi-catch block (Example 4).
 
 public class MultipleCatchEx4 {

@@ -1,3 +1,5 @@
+package src.com.mkpits.java.trycatch;
+
 //Java program to print a custom message on exception.
 
 public class TryCatchEx5ToPrintCustomMessageOnException {

@@ -1,3 +1,5 @@
+package src.com.mkpits.java.exceptionhandling;
+
 //Java program to demonstrate finally block.
 
 public class ExceptionHandlingEx2ToDemonstrateFinallyBlock {

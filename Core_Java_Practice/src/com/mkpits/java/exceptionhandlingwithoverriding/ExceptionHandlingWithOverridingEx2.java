@@ -1,3 +1,5 @@
+package src.com.mkpits.java.exceptionhandlingwithoverriding;
+
 //Java program to demonstrate what happens if subclass overridden method declares same exception.
 
 import java.io.*;

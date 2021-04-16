@@ -1,3 +1,5 @@
+package src.com.mkpits.java.multiplecatch;
+
 //Java program to demonstrate multi-catch block (Example 3).
 // Try block contains two exceptions.
 // But at a time only one exception occurs and its corresponding catch block is invoked.

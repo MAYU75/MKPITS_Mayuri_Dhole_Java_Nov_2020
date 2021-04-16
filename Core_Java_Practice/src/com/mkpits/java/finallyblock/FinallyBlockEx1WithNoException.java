@@ -1,3 +1,5 @@
+package src.com.mkpits.java.finallyblock;
+
 //Java program to demonstrate finally block where exception doesn't occur.
 
 class FinallyBlockEx1WithNoException {

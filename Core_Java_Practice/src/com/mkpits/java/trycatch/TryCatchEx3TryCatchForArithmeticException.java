@@ -1,3 +1,5 @@
+package src.com.mkpits.java.trycatch;
+
 //Java program to demonstrate how Arithmetic Exception is handled using try-catch block.
 //In this program, we also kept the code in a try block that will not throw an exception.
 

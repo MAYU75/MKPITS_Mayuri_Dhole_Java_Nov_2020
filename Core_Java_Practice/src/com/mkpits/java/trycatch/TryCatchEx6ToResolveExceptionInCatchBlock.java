@@ -1,3 +1,5 @@
+package src.com.mkpits.java.trycatch;
+
 //Java program to resolve the exception in a catch block.
 
 public class TryCatchEx6ToResolveExceptionInCatchBlock {

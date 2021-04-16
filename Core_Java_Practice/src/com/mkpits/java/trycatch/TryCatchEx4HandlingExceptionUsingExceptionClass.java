@@ -1,3 +1,5 @@
+package src.com.mkpits.java.trycatch;
+
 //Java program that demonstrate how to handle the exception using the parent class exception.
 
 public class TryCatchEx4HandlingExceptionUsingExceptionClass {

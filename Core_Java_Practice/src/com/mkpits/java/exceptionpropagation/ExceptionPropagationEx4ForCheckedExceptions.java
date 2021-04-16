@@ -1,3 +1,5 @@
+package src.com.mkpits.java.exceptionpropagation;
+
 //Java Program to demonstrate Exception Propagation for checked exceptions.
 //Program which describes that checked exceptions are not propagated
 

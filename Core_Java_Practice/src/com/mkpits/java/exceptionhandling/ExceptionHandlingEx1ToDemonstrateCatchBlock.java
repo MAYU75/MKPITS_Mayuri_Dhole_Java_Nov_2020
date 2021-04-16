@@ -1,3 +1,5 @@
+package src.com.mkpits.java.exceptionhandling;
+
 //Java program to demonstrate catch block.
 
 public class ExceptionHandlingEx1ToDemonstrateCatchBlock {

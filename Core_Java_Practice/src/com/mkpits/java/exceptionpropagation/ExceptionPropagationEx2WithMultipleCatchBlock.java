@@ -1,3 +1,5 @@
+package src.com.mkpits.java.exceptionpropagation;
+
 //Java Program to demonstrate Exception Propagation with Multiple Catch Block (Example 1).
 //Here exception occurs in m() method where it is not handled,
 //so it is propagated to previous n() method where it is not handled,

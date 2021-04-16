@@ -1,5 +1,7 @@
 //Java program to handle another unchecked exception.
 
+package src.com.mkpits.java.trycatch;
+
 public class TryCatchEx9ToHandleAnotherUncheckedException {
 
     public static void main(String[] args) {

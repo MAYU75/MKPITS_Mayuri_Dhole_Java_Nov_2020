@@ -1,5 +1,7 @@
 //Java program to handle checked exception.
 
+package src.com.mkpits.java.trycatch;
+
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 

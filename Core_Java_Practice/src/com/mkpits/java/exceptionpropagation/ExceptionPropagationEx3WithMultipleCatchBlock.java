@@ -1,3 +1,5 @@
+package src.com.mkpits.java.exceptionpropagation;
+
 //Java Program to demonstrate Exception Propagation with Multiple Catch Block (Example 2).
 //Exception can be handled in any method in call stack either in main() method,p() method,n() method or m() method.
 

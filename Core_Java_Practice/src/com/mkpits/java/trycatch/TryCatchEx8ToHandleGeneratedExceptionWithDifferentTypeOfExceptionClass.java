@@ -1,3 +1,5 @@
+package src.com.mkpits.java.trycatch;
+
 //Java program that demonstrate how to handle the generated exception (Arithmetic Exception)
 //with a different type of exception class (ArrayIndexOutOfBoundsException).
 

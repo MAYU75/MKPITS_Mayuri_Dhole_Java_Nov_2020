@@ -1,3 +1,5 @@
+package src.com.mkpits.java.exceptionpropagation;
+
 //Java Program for Exception Propagation that handles Arithmetic Exception.
 
 class ExceptionPropagationEx1ToHandleArithmeticException {

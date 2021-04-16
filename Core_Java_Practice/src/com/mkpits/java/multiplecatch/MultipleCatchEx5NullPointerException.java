@@ -1,3 +1,5 @@
+package src.com.mkpits.java.multiplecatch;
+
 //Java program to demonstrate multi-catch block having NullPointerException.
 //Here NullPointerException is generated.
 //But the corresponding exception type is not provided.

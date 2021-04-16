@@ -987,25 +987,94 @@ Write a program in java that demonstrate how StringTokenizer class tokenizes a s
 #### Program 298 Basic Core Java Program(StringTokenizerEx2NextTokenMethod.java)
 Write a program in java that demonstrate nextToken(String delim) method of StringTokenizer class.
 
-#### Program 299 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+#### Program 299 Basic Core Java Program(ExceptionHandlingEx1ToDemonstrateCatchBlock.java)
 Write a program in java to demonstrate String class method String toLowerCase().
 
-#### Program 300 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+#### Program 300 Basic Core Java Program(ExceptionHandlingEx2ToDemonstrateFinallyBlock.java)
 Write a program in java to demonstrate String class method String toLowerCase().
 
-#### Program 301 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+#### Program 301 Basic Core Java Program(ExceptionHandlingEx3ToDemonstrateTryCatchBlock.java)
 Write a program in java to demonstrate String class method String toLowerCase().
 
-#### Program 302 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+#### Program 302 Basic Core Java Program(TryCatchEx1ArithmeticException.java)
 Write a program in java to demonstrate String class method String toLowerCase().
 
-#### Program 303 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+#### Program 303 Basic Core Java Program(TryCatchEx2TryCatchForArithmeticException.java)
 Write a program in java to demonstrate String class method String toLowerCase().
 
-#### Program 304 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+#### Program 304 Basic Core Java Program(TryCatchEx3TryCatchForArithmeticException.java)
 Write a program in java to demonstrate String class method String toLowerCase().
 
-#### Program 305 Basic Core Java Program(StringEx18toLowerCaseMethod.java)
+#### Program 305 Basic Core Java Program(TryCatchEx4HandlingExceptionUsingExceptionClass.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 306 Basic Core Java Program(TryCatchEx5ToPrintCustomMessageOnException.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 307 Basic Core Java Program(TryCatchEx6ToResolveExceptionInCatchBlock.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 308 Basic Core Java Program(TryCatchEx7ToEncloseExceptionCodeInCatchBlock.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 309 Basic Core Java Program(TryCatchEx8ToHandleGeneratedExceptionWithDifferentTypeOfExceptionClass.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 310 Basic Core Java Program(TryCatchEx9ToHandleAnotherUncheckedException.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 311 Basic Core Java Program(TryCatchEx10ToHandleCheckedException.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 312 Basic Core Java Program(ExceptionHandlingWithOverridingEx1.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 313 Basic Core Java Program(ExceptionHandlingWithOverridingEx2.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 314 Basic Core Java Program(ExceptionHandlingWithOverridingEx3.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 315 Basic Core Java Program(ExceptionHandlingWithOverridingEx4.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 316 Basic Core Java Program(MultipleCatchEx1ArithmeticException.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 317 Basic Core Java Program(MultipleCatchEx2ArrayIndexOutOfBoundsException.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 318 Basic Core Java Program(MultipleCatchEx3TwoExceptionsInTryBlock.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 319 Basic Core Java Program(MultipleCatchEx4.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 320 Basic Core Java Program(MultipleCatchEx5NullPointerException.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 321 Basic Core Java Program(NestedTryBlockExample.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 322 Basic Core Java Program(FinallyBlockEx1WithNoException.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 323 Basic Core Java Program(FinallyBlockEx2WhereExceptionOccursAndNotHandled.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 324 Basic Core Java Program(FinallyBlockEx3WhereExceptionOccursAndHandled.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 325 Basic Core Java Program(ExceptionPropagationEx1ToHandleArithmeticException.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 326 Basic Core Java Program(ExceptionPropagationEx2WithMultipleCatchBlock.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 327 Basic Core Java Program(ExceptionPropagationEx3WithMultipleCatchBlock.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 328 Basic Core Java Program(ExceptionPropagationEx4ForCheckedException.java)
 Write a program in java to demonstrate String class method String toLowerCase().
 
 
