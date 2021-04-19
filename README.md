@@ -1179,7 +1179,23 @@ Write a program in java to demonstrate String class method String toLowerCase().
 #### Program 362 Basic Core Java Program(ExToDemonstrateHowToAddPanel.java)
 Write a program in java to demonstrate String class method String toLowerCase().
 
+#### Program 363 Basic Core Java Program(ExToDemonstrateHowToAddCheckboxInFrame.java)
+Write a program in java to demonstrate String class method String toLowerCase().
 
+#### Program 364 Basic Core Java Program(AwtCheckboxExWithItemListener.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 365 Basic Core Java Program(ExToDemonstrateHowToAddCheckboxGroupInFrame.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 366 Basic Core Java Program(AwtCheckboxGroupExWithItemListener.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 367 Basic Core Java Program(ExToDemonstrateHowToAddChoiceInFrame.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 368 Basic Core Java Program(AwtChoiceExWithActionListener.java)
+Write a program in java to demonstrate String class method String toLowerCase().
 
 
 
