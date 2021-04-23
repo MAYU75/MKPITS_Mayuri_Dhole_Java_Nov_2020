@@ -988,7 +988,7 @@ Write a program in java that demonstrate how StringTokenizer class tokenizes a s
 Write a program in java that demonstrate nextToken(String delim) method of StringTokenizer class.
 
 #### Program 299 Basic Core Java Program(ExceptionHandlingEx1ToDemonstrateCatchBlock.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Exception Handling using Catch Block.
 
 #### Program 300 Basic Core Java Program(ExceptionHandlingEx2ToDemonstrateFinallyBlock.java)
 Write a program in java to demonstrate String class method String toLowerCase().
@@ -1197,6 +1197,50 @@ Write a program in java to demonstrate String class method String toLowerCase().
 #### Program 368 Basic Core Java Program(AwtChoiceExWithActionListener.java)
 Write a program in java to demonstrate String class method String toLowerCase().
 
+#### Program 369 Basic Core Java Program(ExToDemonstrateHowToAddListInFrame.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 370 Basic Core Java Program(AwtListExWithActionListener.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 371 Basic Core Java Program(ExToDemonstrateHowToAddScrollbarInFrame.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 372 Basic Core Java Program(AwtVerticalScrollbarExWithAdjustmentListener.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 373 Basic Core Java Program(AwtHorizontalScrollbarExWithAdjustmentListener.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 374 Basic Core Java Program(ExToDemonstrateHowToAddMenuItemAndMenuInFrame.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 375 Basic Core Java Program(ExToDemonstrateHowToAddMenuItemNamedNewOpenAndMenuNamedFileInFrame.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 376 Basic Core Java Program(AwtPopupMenuExWithMouseListener.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 377 Basic Core Java Program(ExToDemonstrateHowToAddPanelInFrame.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 378 Basic Core Java Program(ExToDemonstrateHowToAddTwoPanelsInFrame.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 379 Basic Core Java Program(AwtDialogExWithActionListener.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 380 Basic Core Java Program(AwtToolkitExToGetScreenResolution.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 381 Basic Core Java Program(AwtToolkitExWithActionListenerToGetBeepSound.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 382 Basic Core Java Program(AwtToolkitExToChangeTitleBarIcon.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 383 Basic Core Java Program(DesigningRegistrationFormUsingAWT.java)
+Write a program in java to demonstrate String class method String toLowerCase().
 
 
 ## Adv_Java_Practice
