@@ -117,8 +117,10 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("1");
                             timer.cancel();
+                            b9.setEnabled(true);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask2(), 10 * 1000);
                     break;
                 case 3:
@@ -128,6 +130,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("1");
                             timer1.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask31 extends TimerTask {
@@ -137,6 +140,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask32(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask31(), 10 * 1000);
                     break;
                 case 4:
@@ -147,6 +151,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("1");
                             timer2.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask42 extends TimerTask {
@@ -163,6 +168,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask42(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask41(), 10 * 1000);
                     break;
                 case 5:
@@ -174,6 +180,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("1");
                             timer3.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask53 extends TimerTask {
@@ -197,6 +204,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask52(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask51(), 10 * 1000);
                     break;
                 case 6:
@@ -209,6 +217,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("1");
                             timer4.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask64 extends TimerTask {
@@ -239,6 +248,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask62(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask61(), 10 * 1000);
                     break;
             }
@@ -249,12 +259,15 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
             switch (current_floor) {
                 case 1:
                     timer = new Timer();
+                    b9.setEnabled(false);
                     class RemindTask11 extends TimerTask {
                         public void run() {
                             label11.setText("2");
                             timer.cancel();
+                            b9.setEnabled(true);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask11(), 10 * 1000);
                     break;
                 case 3:
@@ -263,8 +276,10 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("2");
                             timer.cancel();
+                            b9.setEnabled(true);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask31(), 10 * 1000);
                     break;
                 case 4:
@@ -274,6 +289,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("2");
                             timer1.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask41 extends TimerTask {
@@ -283,6 +299,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask42(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask41(), 10 * 1000);
                     break;
                 case 5:
@@ -293,6 +310,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("2");
                             timer2.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask52 extends TimerTask {
@@ -309,6 +327,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask52(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask51(), 10 * 1000);
                     break;
                 case 6:
@@ -320,6 +339,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("2");
                             timer3.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask63 extends TimerTask {
@@ -343,6 +363,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask62(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask61(), 10 * 1000);
                     break;
             }
@@ -358,6 +379,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("3");
                             timer1.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask11 extends TimerTask {
@@ -367,6 +389,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask12(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask11(), 10 * 1000);
                     break;
                 case 2:
@@ -375,8 +398,10 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("3");
                             timer.cancel();
+                            b9.setEnabled(true);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask21(), 10 * 1000);
                     break;
                 case 4:
@@ -385,8 +410,10 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("3");
                             timer.cancel();
+                            b9.setEnabled(true);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask41(), 10 * 1000);
                     break;
                 case 5:
@@ -396,6 +423,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("3");
                             timer1.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask51 extends TimerTask {
@@ -405,6 +433,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask52(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask51(), 10 * 1000);
                     break;
                 case 6:
@@ -415,6 +444,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("3");
                             timer2.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask62 extends TimerTask {
@@ -431,6 +461,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask62(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask61(), 10 * 1000);
                     break;
             }
@@ -447,6 +478,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("4");
                             timer2.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask12 extends TimerTask {
@@ -463,6 +495,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask12(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask11(), 10 * 1000);
                     break;
                 case 2:
@@ -472,6 +505,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("4");
                             timer1.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask21 extends TimerTask {
@@ -481,6 +515,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask22(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask21(), 10 * 1000);
                     break;
                 case 3:
@@ -489,8 +524,10 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("4");
                             timer.cancel();
+                            b9.setEnabled(true);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask31(), 10 * 1000);
                     break;
                 case 5:
@@ -499,8 +536,10 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("4");
                             timer.cancel();
+                            b9.setEnabled(true);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask51(), 10 * 1000);
                     break;
                 case 6:
@@ -510,6 +549,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("4");
                             timer1.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask61 extends TimerTask {
@@ -519,6 +559,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask62(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask61(), 10 * 1000);
                     break;
             }
@@ -536,6 +577,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("5");
                             timer3.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask13 extends TimerTask {
@@ -559,6 +601,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask12(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask11(), 10 * 1000);
                     break;
                 case 2:
@@ -569,6 +612,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("5");
                             timer2.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask22 extends TimerTask {
@@ -585,6 +629,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask22(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask21(), 10 * 1000);
                     break;
                 case 3:
@@ -594,6 +639,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("5");
                             timer1.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask31 extends TimerTask {
@@ -603,6 +649,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask32(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask31(), 10 * 1000);
                     break;
                 case 4:
@@ -611,8 +658,10 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("5");
                             timer.cancel();
+                            b9.setEnabled(true);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask41(), 10 * 1000);
                     break;
                 case 6:
@@ -621,8 +670,10 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("5");
                             timer.cancel();
+                            b9.setEnabled(true);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask61(), 10 * 1000);
                     break;
             }
@@ -641,12 +692,14 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("6");
                             timer4.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask14 extends TimerTask {
                         public void run() {
                             label11.setText("5");
                             timer3.cancel();
+                            //b9.setEnabled(false);
                             timer4.schedule(new RemindTask15(), 10 * 1000);
                         }
                     }
@@ -654,6 +707,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("4");
                             timer2.cancel();
+                            //b9.setEnabled(false);
                             timer3.schedule(new RemindTask14(), 10 * 1000);
                         }
                     }
@@ -661,16 +715,20 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("3");
                             timer1.cancel();
+                            //b9.setEnabled(false);
                             timer2.schedule(new RemindTask13(), 10 * 1000);
                         }
                     }
                     class RemindTask11 extends TimerTask {
+                        b9.setEnabled(false);
                         public void run() {
                             label11.setText("2");
                             timer.cancel();
+                            //b9.setEnabled(false);
                             timer1.schedule(new RemindTask12(), 10 * 1000);
                         }
                     }
+
                     timer.schedule(new RemindTask11(), 10 * 1000);
                     break;
                 case 2:
@@ -682,6 +740,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("6");
                             timer3.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask23 extends TimerTask {
@@ -705,6 +764,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask22(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask21(), 10 * 1000);
                     break;
                 case 3:
@@ -715,6 +775,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("6");
                             timer2.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask32 extends TimerTask {
@@ -731,6 +792,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask32(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask31(), 10 * 1000);
                     break;
                 case 4:
@@ -740,6 +802,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("6");
                             timer1.cancel();
+                            b9.setEnabled(true);
                         }
                     }
                     class RemindTask41 extends TimerTask {
@@ -749,6 +812,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                             timer1.schedule(new RemindTask42(), 10 * 1000);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask41(), 10 * 1000);
                     break;
                 case 5:
@@ -757,8 +821,10 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         public void run() {
                             label11.setText("6");
                             timer.cancel();
+                            b9.setEnabled(true);
                         }
                     }
+                    b9.setEnabled(false);
                     timer.schedule(new RemindTask51(), 10 * 1000);
                     break;
             }
