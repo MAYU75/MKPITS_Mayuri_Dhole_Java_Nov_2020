@@ -997,31 +997,31 @@ Write a program in java to demonstrate finally block.
 Write a program in java to demonstrate try catch Block.
 
 #### Program 302 Basic Core Java Program(TryCatchEx1ArithmeticException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Arithmetic Exception.
 
 #### Program 303 Basic Core Java Program(TryCatchEx2TryCatchForArithmeticException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate try catch Block for Arithmetic Exception .
 
 #### Program 304 Basic Core Java Program(TryCatchEx3TryCatchForArithmeticException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate try catch Block for Arithmetic Exception.
 
 #### Program 305 Basic Core Java Program(TryCatchEx4HandlingExceptionUsingExceptionClass.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate exception handling using Exception Class.
 
 #### Program 306 Basic Core Java Program(TryCatchEx5ToPrintCustomMessageOnException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to print custom message on Exception.
 
 #### Program 307 Basic Core Java Program(TryCatchEx6ToResolveExceptionInCatchBlock.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to resolve Exception in catch Block.
 
 #### Program 308 Basic Core Java Program(TryCatchEx7ToEncloseExceptionCodeInCatchBlock.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to enclose Exception code in catch Block.
 
 #### Program 309 Basic Core Java Program(TryCatchEx8ToHandleGeneratedExceptionWithDifferentTypeOfExceptionClass.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to handle generated Exception with different type Of Exception Class.
 
 #### Program 310 Basic Core Java Program(TryCatchEx9ToHandleAnotherUncheckedException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to handle another Unchecked Exception.
 
 #### Program 311 Basic Core Java Program(TryCatchEx10ToHandleCheckedException.java)
 Write a program in java to demonstrate String class method String toLowerCase().
@@ -1250,6 +1250,87 @@ Write a program in java to demonstrate String class method String toLowerCase().
 
 #### Program 386 Basic Core Java Program(JdbcExOfRegistrationWithUsernamePasswordGenderCourseCityUsingSwingWithRegisterClass.java)(RegisterClassForRegistrationForm.java)
 Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 387 Basic Core Java Program(JdbcExOfCreatingStudentFormUsingSwing.java)(StudentClassForStudentForm.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 388 Basic Core Java Program(JdbcExToDemonstrateHowToCreateTable.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 389 Basic Core Java Program(JdbcExToDemonstrateHowToInsertRecordsIntoTable.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 390 Basic Core Java Program(JdbcExToDemonstrateHowToFetchAndDisplayRecordsFromTable.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 391 Basic Core Java Program(JdbcExToDemonstrateHowToUpdateAnyRecordFromTable.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 392 Basic Core Java Program(JdbcExToDemonstrateHowToDeleteAnyRecordFromTable.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 393 Basic Core Java Program(AdapterClassExForMouse.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 394 Basic Core Java Program(AwtExOfEventHandlingWithKeyListenerForKeyboardEvent.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 395 Basic Core Java Program(AdapterClassExForKeyboardEvent.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 396 Basic Core Java Program(AwtExToHandleDialogBox.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 397 Basic Core Java Program(AwtExOfMouseEventHandlingWithoutAdapterClass.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 398 Basic Core Java Program(AwtExOfEventHandlingWithWindowListener.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 400 Basic Core Java Program(NumericPatternEx1.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 401 Basic Core Java Program(NumericPatternEx2.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 402 Basic Core Java Program(NumberPatternEx3PascalsTriangle.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 403 Basic Core Java Program(NumberPatternEx4DiamondPattern.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 404 Basic Core Java Program(NumberPatternEx5.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 405 Basic Core Java Program(NumberPatternEx6DescendingOrderPattern.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 406 Basic Core Java Program(NumberPatternEx7RightTriangle.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 407 Basic Core Java Program(NumberPatternEx8BinaryNumberPattern.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 408 Basic Core Java Program(NumberPatternEx9ZerosOrOnesPattern.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 409 Basic Core Java Program(NumberPatternEx10DiamondNumericPattern.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 410 Basic Core Java Program(AlphabetPatternEx1RightAlphabeticTriangle.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 411 Basic Core Java Program(AlphabetPatternEx2AlphabetOrCharacterPattern.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 412 Basic Core Java Program(AlphabetPatternEx3KShapeCharacterPattern.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+#### Program 413 Basic Core Java Program(AlphabetPatternEx4TriangleCharacterPattern.java)
+Write a program in java to demonstrate String class method String toLowerCase().
+
+
+
 
 ## Adv_Java_Practice
 #### Program 1 (Date)
