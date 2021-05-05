@@ -9,6 +9,7 @@
 
 package src.com.mkpits.java.pattern;
 
+
 public class AlphabetPatternEx2AlphabetOrCharacterPattern {
     public static void main(String[] args) {
         int alphabet = 65;

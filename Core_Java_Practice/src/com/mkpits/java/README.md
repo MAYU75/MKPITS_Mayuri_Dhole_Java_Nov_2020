@@ -997,13 +997,13 @@ Write a program in java to demonstrate finally block.
 Write a program in java to demonstrate try catch Block.
 
 #### Program 302 Basic Core Java Program(TryCatchEx1ArithmeticException.java)
-Write a program in java to demonstrate Arithmetic Exception.
+Write a program in java to demonstrate ArithmeticException.
 
 #### Program 303 Basic Core Java Program(TryCatchEx2TryCatchForArithmeticException.java)
-Write a program in java to demonstrate try catch Block for Arithmetic Exception .
+Write a program in java to demonstrate try catch Block for ArithmeticException .
 
 #### Program 304 Basic Core Java Program(TryCatchEx3TryCatchForArithmeticException.java)
-Write a program in java to demonstrate try catch Block for Arithmetic Exception.
+Write a program in java to demonstrate try catch Block for ArithmeticException.
 
 #### Program 305 Basic Core Java Program(TryCatchEx4HandlingExceptionUsingExceptionClass.java)
 Write a program in java to demonstrate exception handling using Exception Class.
@@ -1024,124 +1024,124 @@ Write a program in java to demonstrate how to handle generated Exception with di
 Write a program in java to demonstrate how to handle another Unchecked Exception.
 
 #### Program 311 Basic Core Java Program(TryCatchEx10ToHandleCheckedException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to handle Checked Exception.
 
 #### Program 312 Basic Core Java Program(ExceptionHandlingWithOverridingEx1.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Exception Handling with overriding.
 
 #### Program 313 Basic Core Java Program(ExceptionHandlingWithOverridingEx2.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Exception Handling with overriding.
 
 #### Program 314 Basic Core Java Program(ExceptionHandlingWithOverridingEx3.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Exception Handling with overriding.
 
 #### Program 315 Basic Core Java Program(ExceptionHandlingWithOverridingEx4.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Exception Handling with overriding.
 
 #### Program 316 Basic Core Java Program(MultipleCatchEx1ArithmeticException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate multiple catch with ArithmeticException.
 
 #### Program 317 Basic Core Java Program(MultipleCatchEx2ArrayIndexOutOfBoundsException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate multiple catch with ArrayIndexOutOfBoundsException.
 
 #### Program 318 Basic Core Java Program(MultipleCatchEx3TwoExceptionsInTryBlock.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate multiple catch with two Exceptions in try block.
 
 #### Program 319 Basic Core Java Program(MultipleCatchEx4.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate multiple catch.
 
 #### Program 320 Basic Core Java Program(MultipleCatchEx5NullPointerException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate multiple catch with NullPointerException.
 
 #### Program 321 Basic Core Java Program(NestedTryBlockExample.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate nested try block.
 
 #### Program 322 Basic Core Java Program(FinallyBlockEx1WithNoException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate finally block with no Exception.
 
 #### Program 323 Basic Core Java Program(FinallyBlockEx2WhereExceptionOccursAndNotHandled.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate finally block where Exception occurs and is not handled.
 
 #### Program 324 Basic Core Java Program(FinallyBlockEx3WhereExceptionOccursAndHandled.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate finally block where Exception occurs and is handled.
 
 #### Program 325 Basic Core Java Program(ExceptionPropagationEx1ToHandleArithmeticException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Exception propogation to handle ArithmeticException.
 
 #### Program 326 Basic Core Java Program(ExceptionPropagationEx2WithMultipleCatchBlock.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Exception propogation with multiple catch block.
 
 #### Program 327 Basic Core Java Program(ExceptionPropagationEx3WithMultipleCatchBlock.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Exception propogation with multiple catch block.
 
 #### Program 328 Basic Core Java Program(ExceptionPropagationEx4ForCheckedException.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Exception propogation for Checked Exception.
 
 #### Program 329 Basic Core Java Program(FileOutputStreamEx1ToWriteByte.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate file output stream to write Byte.
 
 #### Program 330 Basic Core Java Program(FileOutputStreamEx2ToWriteString.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate file output stream to write String.
 
 #### Program 331 Basic Core Java Program(FileOutputStreamEx3ToWriteCharactersFromAToZ.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate file output stream to write characters from A to Z.
 
 #### Program 332 Basic Core Java Program(FileInputStreamEx1ToReadSingleCharacter.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate File Input Stream to read single character.
 
 #### Program 333 Basic Core Java Program(FileInputStreamEx2ToReadAllCharacters.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate File Input Stream to read all characters.
 
 #### Program 334 Basic Core Java Program(BufferedInputStreamEx1ToReadDataOfFile.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Buffered Input Stream to read data of a file.
 
 #### Program 335 Basic Core Java Program(BufferedOutputStreamEx1ToWriteSomeString.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Buffered Output Stream to write some String.
 
 #### Program 336 Basic Core Java Program(SequenceInputStreamExToPrintDataOfTwoFiles.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Sequence Input Stream to print data of two files.
 
 #### Program 337 Basic Core Java Program(SequenceInputStreamExThatReadsDataUsingEnumeration.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Sequence Input Stream that reads data using Enumeration.
 
 #### Program 338 Basic Core Java Program(CharArrayWriterExToWriteACommonDataTo4Files.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Char Array Writer to write a common data to four files.
 
 #### Program 339 Basic Core Java Program(ConsoleExToAcceptPassword.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Console to accept password.
 
 #### Program 340 Basic Core Java Program(ConsoleExToReadUsernamePasswordAndCheckAuthentication.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate console to read Username, Password and check authentication.
 
 #### Program 341 Basic Core Java Program(ConsoleReadlineMethodExToAcceptName.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Console Readline method to accept name.
 
 #### Program 342 Basic Core Java Program(FileReaderExToReadDataFromTextFile.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate FileReader to read data from text file.
 
 #### Program 343 Basic Core Java Program(FileWriterExToWriteData.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate FileWriter to write data.
 
 #### Program 344 Basic Core Java Program(InputStreamReaderExToReadTextFromFile.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Input Stream Reader to read text from file.
 
 #### Program 345 Basic Core Java Program(PrintStreamExToPrintIntegerAndStringValue.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Print Stream to print integer and String value.
 
 #### Program 346 Basic Core Java Program(PrintWriterExToSimultaneouslyWriteAndReadDataFromFile.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate PrintWriter to simultaneously write and read data from file.
 
 #### Program 347 Basic Core Java Program(PrintWriterExToWriteDataOnConsoleAndInTextFile.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate PrintWriter to write data on console and in text file.
 
 #### Program 348 Basic Core Java Program(ExToCreateAFrameByExtendingFrameClass.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to create a Frame by extending Frame Class.
 
 #### Program 349 Basic Core Java Program(ExToCreateACalculatorByExtendingFrameClass.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to create a calculator by extending Frame Class.
 
 #### Program 350 Basic Core Java Program(ExToCreateFrameByCreatingObjectOfFrameClass.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to create a Frame by creating object of Frame Class.
 
 #### Program 351 Basic Core Java Program(ExToCreateACalculatorByCreatingObjectOfFrameClass.java)
 Write a program in java to demonstrate String class method String toLowerCase().
