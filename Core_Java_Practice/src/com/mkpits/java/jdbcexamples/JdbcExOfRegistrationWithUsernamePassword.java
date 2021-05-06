@@ -1,3 +1,6 @@
+//Java program to demonstrate how to insert username and password data
+// from Registration form into table "register" of the database.
+
 package src.com.mkpits.java.jdbcexamples;
 
 import java.awt.*;

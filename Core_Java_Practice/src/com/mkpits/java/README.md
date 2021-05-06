@@ -1144,190 +1144,330 @@ Write a program in java to demonstrate how to create a calculator by extending F
 Write a program in java to demonstrate how to create a Frame by creating object of Frame Class.
 
 #### Program 351 Basic Core Java Program(ExToCreateACalculatorByCreatingObjectOfFrameClass.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to create a calculator by creating object of Frame Class.
 
 #### Program 352 Basic Core Java Program(ExOfEventHandlingWithinClass.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Event handling within class.
 
 #### Program 353 Basic Core Java Program(ExOfEventHandlingWithinClassWithTwoButtons.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Event handling within class with two buttons.
 
 #### Program 354 Basic Core Java Program(ExOfEventHandlingByOuterClass.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Event handling by Outer Class.
 
 #### Program 355 Basic Core Java Program(ExOfEventHandlingByAnonymousClassWithTwoButtons.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Event handling by Anonymous Class with two buttons.
 
 #### Program 356 Basic Core Java Program(ExOfEventHandlingToAcceptTwoNumbersAndDisplayAddition.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Event handling that accept two numbers and display addition.
 
 #### Program 357 Basic Core Java Program(ExOfEventHandlingToAcceptTwoNumbersAndPerformArithmeticOperations.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Event handling to accept two numbers and perform Arithmetic operations.
 
 #### Program 358 Basic Core Java Program(ExToDemonstrateHowToAddTextFieldInFrame.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add TextField in Frame.
 
 #### Program 359 Basic Core Java Program(AwtTextFieldExWithActionListener.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT TextField with ActionListener.
 
 #### Program 360 Basic Core Java Program(ExToDemonstrateHowToAddTextAreaInFrame.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add TextArea in Frame.
 
 #### Program 361 Basic Core Java Program(AwtTextAreaExWithActionListener.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT TextArea with ActionListener.
 
 #### Program 362 Basic Core Java Program(ExToDemonstrateHowToAddPanel.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add Panel in Frame.
 
 #### Program 363 Basic Core Java Program(ExToDemonstrateHowToAddCheckboxInFrame.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add Checkbox in Frame.
 
 #### Program 364 Basic Core Java Program(AwtCheckboxExWithItemListener.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT Checkbox with ItemListener.
 
 #### Program 365 Basic Core Java Program(ExToDemonstrateHowToAddCheckboxGroupInFrame.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add Checkbox Group in Frame.
 
 #### Program 366 Basic Core Java Program(AwtCheckboxGroupExWithItemListener.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT Checkbox Group with ItemListener.
 
 #### Program 367 Basic Core Java Program(ExToDemonstrateHowToAddChoiceInFrame.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add Choice in Frame.
 
 #### Program 368 Basic Core Java Program(AwtChoiceExWithActionListener.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT Choice with ActionListener.
 
 #### Program 369 Basic Core Java Program(ExToDemonstrateHowToAddListInFrame.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add List in Frame.
 
 #### Program 370 Basic Core Java Program(AwtListExWithActionListener.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT List with ActionListener.
 
 #### Program 371 Basic Core Java Program(ExToDemonstrateHowToAddScrollbarInFrame.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add Scrollbar in Frame.
 
 #### Program 372 Basic Core Java Program(AwtVerticalScrollbarExWithAdjustmentListener.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT Vertical Scrollbar with AdjustmentListener.
 
 #### Program 373 Basic Core Java Program(AwtHorizontalScrollbarExWithAdjustmentListener.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT Horizontal Scrollbar with AdjustmentListener.
 
 #### Program 374 Basic Core Java Program(ExToDemonstrateHowToAddMenuItemAndMenuInFrame.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add MenuItem and Menu in Frame.
 
 #### Program 375 Basic Core Java Program(ExToDemonstrateHowToAddMenuItemNamedNewOpenAndMenuNamedFileInFrame.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add MenuItem named Name, New, Open and Menu named File in Frame.
 
 #### Program 376 Basic Core Java Program(AwtPopupMenuExWithMouseListener.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT Popup Menu with MouseListener.
 
 #### Program 377 Basic Core Java Program(ExToDemonstrateHowToAddPanelInFrame.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add Panel in Frame.
 
 #### Program 378 Basic Core Java Program(ExToDemonstrateHowToAddTwoPanelsInFrame.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to add two Panels in Frame.
 
 #### Program 379 Basic Core Java Program(AwtDialogExWithActionListener.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT Dialog with ActionListener.
 
 #### Program 380 Basic Core Java Program(AwtToolkitExToGetScreenResolution.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT Toolkit to get Screen Resolution.
 
 #### Program 381 Basic Core Java Program(AwtToolkitExWithActionListenerToGetBeepSound.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate AWT Toolkit with ActionListener to get beep sound.
 
 #### Program 382 Basic Core Java Program(AwtToolkitExToChangeTitleBarIcon.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate  AWT Toolkit to change Title bar icon.
 
 #### Program 383 Basic Core Java Program(DesigningRegistrationFormUsingAWT.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to design Registration Form using AWT.
 
 #### Program 384 Basic Core Java Program(JdbcExOfRegistrationWithUsernamePassword.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to insert username and password data from Registration form into table "register" of the database.
 
 #### Program 385 Basic Core Java Program(JdbcExOfRegistrationWithUsernamePasswordGenderCourseCityUsingSwing.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to insert username, password, gender, course and city data from 
+Registration form into table "register" of the database using Swing.
 
 #### Program 386 Basic Core Java Program(JdbcExOfRegistrationWithUsernamePasswordGenderCourseCityUsingSwingWithRegisterClass.java)(RegisterClassForRegistrationForm.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to create a registration form with Username, password, gender, course and city using Swing.
 
 #### Program 387 Basic Core Java Program(JdbcExOfCreatingStudentFormUsingSwing.java)(StudentClassForStudentForm.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to create Student form having student name, address, gender, hobby and course using swing.
 
 #### Program 388 Basic Core Java Program(JdbcExToDemonstrateHowToCreateTable.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to create table in a database using JDBC connection.
 
 #### Program 389 Basic Core Java Program(JdbcExToDemonstrateHowToInsertRecordsIntoTable.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to insert records into the table.
 
 #### Program 390 Basic Core Java Program(JdbcExToDemonstrateHowToFetchAndDisplayRecordsFromTable.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to fetch and display records from the table.
 
 #### Program 391 Basic Core Java Program(JdbcExToDemonstrateHowToUpdateAnyRecordFromTable.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to update any record from the table.
 
 #### Program 392 Basic Core Java Program(JdbcExToDemonstrateHowToDeleteAnyRecordFromTable.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to delete any record from the table.
 
 #### Program 393 Basic Core Java Program(AdapterClassExForMouse.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to handle mouse event using Adapter class.
 
 #### Program 394 Basic Core Java Program(AwtExOfEventHandlingWithKeyListenerForKeyboardEvent.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to handle keyboard event using Key Listener.
 
 #### Program 395 Basic Core Java Program(AdapterClassExForKeyboardEvent.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to handle Keyboard event with Adapter Class.
 
 #### Program 396 Basic Core Java Program(AwtExToHandleDialogBox.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate how to handle Dialog Box.
 
 #### Program 397 Basic Core Java Program(AwtExOfMouseEventHandlingWithoutAdapterClass.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Mouse event handling without Adapter Class.
 
 #### Program 398 Basic Core Java Program(AwtExOfEventHandlingWithWindowListener.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Event handling with Window Listener.
 
 #### Program 400 Basic Core Java Program(NumericPatternEx1.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate simple number pattern.
+
+        1
+        1 2
+        1 2 3
+        1 2 3 4
+        1 2 3 4 5
 
 #### Program 401 Basic Core Java Program(NumericPatternEx2.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate simple number pattern.
+
+        1
+        2 3
+        4 5 6
+        7 8 9 10
+        11 12 13 14 15
 
 #### Program 402 Basic Core Java Program(NumberPatternEx3PascalsTriangle.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate number pattern for Pascal’s Triangle.
+
+                     1
+                     1   1
+                     1   2   1
+                     1   3   3   1
+                     1   4   6   4   1
 
 #### Program 403 Basic Core Java Program(NumberPatternEx4DiamondPattern.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate number pattern for Diamond pattern.
+
+              1
+             212
+            32123
+           4321234
+            32123
+             212
+              1
 
 #### Program 404 Basic Core Java Program(NumberPatternEx5.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate number pattern
+
+        1
+        2 2
+        3 3 3
+        4 4 4 4
+        5 5 5 5 5
 
 #### Program 405 Basic Core Java Program(NumberPatternEx6DescendingOrderPattern.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate number pattern in descending order.
+
+		5
+		5 4
+		5 4 3
+		5 4 3 2
+		5 4 3 2 1
 
 #### Program 406 Basic Core Java Program(NumberPatternEx7RightTriangle.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate number pattern for Right triangle.
+
+		1
+		2 1
+		3 2 1
+		4 3 2 1
+		5 4 3 2 1
 
 #### Program 407 Basic Core Java Program(NumberPatternEx8BinaryNumberPattern.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate number pattern for Binary numbers.
+
+		10101
+		01010
+		10101
+		01010
+		10101
 
 #### Program 408 Basic Core Java Program(NumberPatternEx9ZerosOrOnesPattern.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate number pattern for Zeroes/Ones pattern.
+
+		1
+		10
+		101
+		1010
+		10101
 
 #### Program 409 Basic Core Java Program(NumberPatternEx10DiamondNumericPattern.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Diamond numeric pattern.
+
+      1 2 3 4 5
+       2 3 4 5
+        3 4 5
+         4 5
+          5
+         4 5
+        3 4 5
+       2 3 4 5
+      1 2 3 4 5
 
 #### Program 410 Basic Core Java Program(AlphabetPatternEx1RightAlphabeticTriangle.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Right Alphabetic triangle pattern.
+
+      A
+      A B
+      A B C
+      A B C D
+      A B C D E
+      A B C D E F
 
 #### Program 411 Basic Core Java Program(AlphabetPatternEx2AlphabetOrCharacterPattern.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Alphabet or Character Pattern.
+
+      A
+      B B
+      C C C
+      D D D D
+      E E E E E
+      F F F F F F
 
 #### Program 412 Basic Core Java Program(AlphabetPatternEx3KShapeCharacterPattern.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate K Shape Character Pattern.
+
+      A B C D E F
+      A B C D E
+      A B C D
+      A B C
+      A B
+      A
+      A
+      A B
+      A B C
+      A B C D
+      A B C D E
+      A B C D E F
 
 #### Program 413 Basic Core Java Program(AlphabetPatternEx4TriangleCharacterPattern.java)
-Write a program in java to demonstrate String class method String toLowerCase().
+Write a program in java to demonstrate Triangle Character Pattern.
+
+           A
+          A B
+         A B C
+        A B C D
+       A B C D E
+      A B C D E F
+
+#### Program 414 Basic Core Java Program(ExToCopyAllElementsOfOneArrayIntoAnotherArray.java)
+Write a program in java to copy all elements of one array into another array.
+
+#### Program 415 Basic Core Java Program(ExToFindFrequencyOfEachElementInTheArray.java)
+Write a program in java to find the frequency of each element in the array.
+
+#### Program 416 Basic Core Java Program(ExToLeftRotateTheElementsOfAnArray.java)
+Write a program in java to left rotate the elements of an array.
+
+#### Program 417 Basic Core Java Program(ExToPrintTheDuplicateElementsOfAnArray.java)
+Write a program in java to print the duplicate elements of an array.
+
+#### Program 418 Basic Core Java Program(ExToPrintTheElementsOfAnArray.java)
+Write a program in java to print the elements of an array.
+
+#### Program 419 Basic Core Java Program(ExToPrintTheElementsOfAnArrayInReverseOrder.java)
+Write a program in java to print the elements of an array in reverse order.
+
+#### Program 420 Basic Core Java Program(ExToPrintTheElementsOfAnArrayPresentOnEvenPosition.java)
+Write a program in java to print the elements of an array present on even position.
+
+#### Program 421 Basic Core Java Program(ExToPrintTheElementsOfAnArrayPresentOnOddPosition.java)
+Write a program in java to print the elements of an array present on odd position.
+
+#### Program 422 Basic Core Java Program(ExToPrintTheLargestElementInAnArray.java)
+Write a program in java to print the largest element in an array.
+
+#### Program 423 Basic Core Java Program(ExToPrintTheSmallestElementInAnArray.java)
+Write a program in java to print the smallest element in an array.
+
+#### Program 424 Basic Core Java Program(ExToPrintTheNumberOfElementsPresentInAnArray.java)
+Write a program in java to print the number of elements present in an array.
+
+#### Program 425 Basic Core Java Program(ExToPrintTheSumOfAllTheItemsOfTheArray.java)
+Write a program in java to print the sum of all the items of the array.
+
+#### Program 426 Basic Core Java Program(ExToRightRotateTheElementsOfAnArray.java)
+Write a program in java to right rotate the elements of an array.
 
 
 
