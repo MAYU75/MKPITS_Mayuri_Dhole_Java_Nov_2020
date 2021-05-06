@@ -1469,6 +1469,27 @@ Write a program in java to print the sum of all the items of the array.
 #### Program 426 Basic Core Java Program(ExToRightRotateTheElementsOfAnArray.java)
 Write a program in java to right rotate the elements of an array.
 
+#### Program 427 Basic Core Java Program(ExToSortTheElementsOfAnArrayInAscendingOrder.java)
+Write a program in java to sort the elements of an array in ascending order.
+
+#### Program 428 Basic Core Java Program(ExToSortTheElementsOfAnArrayInDescendingOrder.java)
+Write a program in java to sort the elements of an array in descending order.
+
+#### Program 429 Basic Core Java Program(ExToFind3rdLargestNumberInAnArray.java)
+Write a program in java to find 3rd Largest Number in an Array.
+
+#### Program 430 Basic Core Java Program(ExToFind2ndLargestNumberInAnArray.java)
+Write a program in java to find 2nd Largest Number in an Array.
+
+#### Program 431 Basic Core Java Program(ExToFindLargestNumberInAnArray.java)
+Write a program in java to find largest number in an Array.
+
+#### Program 432 Basic Core Java Program(ExToFind2ndSmallestNumberInAnArray.java)
+Write a program in java to find 2nd smallest number in an Array.
+
+#### Program 433 Basic Core Java Program(ExToFindSmallestNumberInAnArray.java)
+Write a program in java to find Smallest Number in an Array.
+
 
 
 
