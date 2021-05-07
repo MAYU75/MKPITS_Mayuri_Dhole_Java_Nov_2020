@@ -1,13 +1,4 @@
 # MKPITS_Mayuri_Dhole_Java_Nov_2020
-## C_Practice
-#### Program 1 Basic C program to perform Arithmetic operation addition(ADD.C)
-Write a program in C to perform addition of two numbers.
-
-#### Program 2 Basic C program to perform Arithmetic operation subtraction(SUB.C)
-Write a program in C to perform subtraction of two numbers.
-
-#### Program 3 Basic C program to perform Arithmetic operation multiplication(MUL.C)
-Write a program in C to perform multiplication of two numbers.
 
 ## Core_Java_Practice
 #### Program 1 Basic Core Java Program(hello.java)
@@ -1490,26 +1481,43 @@ Write a program in java to find 2nd smallest number in an Array.
 #### Program 433 Basic Core Java Program(ExToFindSmallestNumberInAnArray.java)
 Write a program in java to find Smallest Number in an Array.
 
+#### Program 434 Basic Core Java Program(ExToPrintOddAndEvenNumberFromAnArray.java)
+Write a program in java to print Odd and Even Numbers from an Array.
+
+#### Program 435 Basic Core Java Program(ExToTransposeMatrix.java)
+Write a program in java to Transpose matrix.
+
+#### Program 436 Basic Core Java Program(ExToSubtractTheTwoMatrices.java)
+Write a program in java to subtract the two matrices.
+
+#### Program 437 Basic Core Java Program(ExToDetermineWhetherGivenMatrixIsAnIdentityMatrix.java)
+Write a program in java to determine whether a given matrix is an identity matrix.
+
+#### Program 438 Basic Core Java Program(ExToDetermineWhetherGivenMatrixIsASparseMatrix.java)
+Write a program in java to determine whether a given matrix is a sparse matrix.
+
+#### Program 439 Basic Core Java Program(ExToDetermineWhetherTwoMatricesAreEqual.java)
+Write a program in java to determine whether two matrices are equal.
+
+#### Program 440 Basic Core Java Program(ExToDisplayLowerTriangularMatrix.java)
+Write a program in java to display the lower triangular matrix.
+
+#### Program 441 Basic Core Java Program(ExToDisplayUpperTriangularMatrix.java)
+Write a program in java to display the upper triangular matrix.
+
+#### Program 442 Basic Core Java Program(ExToRemoveDuplicateElementInAnArray.java)
+Write a program in java to remove duplicate element in an Array.
+
+#### Program 443 Basic Core Java Program(ExToFindFrequencyOfOddAndEvenNumbersInGivenMatrix.java)
+Write a program in java to find the frequency of odd & even numbers in the given matrix.
+
+#### Program 444 Basic Core Java Program(ExToFindSumOfEachRowAndEachColumnOfMatrix.java)
+Write a program in java to find the sum of each row and each column of a matrix.
+
+#### Program 445 Basic Core Java Program(ExToRemoveDuplicateElementInAnArray.java)
+Write a program in java to remove duplicate element in an Array.
 
 
 
-## Adv_Java_Practice
-#### Program 1 (Date)
-Description of program
-
-#### Program 2 (Date)
-Description of program
-
-#### Program 3 (Date)
-Description of program
 
 
-## Projects
-#### Project 1 (Date)
-Description of project
-
-#### Project 2 (Date)
-Description of project
-
-#### Project 3 (Date)
-Description of project

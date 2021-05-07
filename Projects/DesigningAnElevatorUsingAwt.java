@@ -1,6 +1,5 @@
 //Java program to design an elevator using AWT.
 
-package src.com.mkpits.java.awtexamples;
 
 import javax.swing.*;
 import java.awt.*;
