@@ -1,0 +1,79 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+ int num,remainder,originalnum,odd=0,even=0;
+ clrscr();
+ printf("\n Enter the 5 digit number:");
+ scanf("%d",&num);
+ originalnum=num;
+ if(num!=0)
+ {
+  remainder=num%10;
+  num=num/10;
+  if(remainder%2==0)
+  {
+   even=even+remainder;
+  }
+  else
+  {
+   odd=odd+remainder;
+  }
+ }
+ if(num!=0)
+ {
+  remainder=num%10;
+  num=num/10;
+  if(remainder%2==0)
+  {
+   even=even+remainder;
+  }
+  else
+  {
+   odd=odd+remainder;
+  }
+ }
+ if(num!=0)
+ {
+  remainder=num%10;
+  num=num/10;
+  if(remainder%2==0)
+  {
+   even=even+remainder;
+  }
+  else
+  {
+   odd=odd+remainder;
+  }
+ }
+ if(num!=0)
+ {
+  remainder=num%10;
+  num=num/10;
+  if(remainder%2==0)
+  {
+   even=even+remainder;
+  }
+  else
+  {
+   odd=odd+remainder;
+  }
+ }
+ if(num!=0)
+ {
+  remainder=num%10;
+  num=num/10;
+  if(remainder%2==0)
+  {
+   even=even+remainder;
+  }
+  else
+  {
+   odd=odd+remainder;
+  }
+ }
+ printf("\n The addition of even digits of number %d is %d",originalnum,even);
+ printf("\n The addition of odd digits of number %d is %d",originalnum,odd);
+ getch();
+}
