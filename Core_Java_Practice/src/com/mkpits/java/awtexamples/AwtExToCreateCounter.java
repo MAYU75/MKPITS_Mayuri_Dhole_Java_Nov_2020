@@ -1,3 +1,5 @@
+//Java program to create counter using AWT.
+
 package src.com.mkpits.java.awtexamples;
 
 import java.awt.*;        // Using AWT container and component classes

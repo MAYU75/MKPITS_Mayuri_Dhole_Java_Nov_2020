@@ -1514,8 +1514,23 @@ Write a program in java to find the frequency of odd & even numbers in the given
 #### Program 444 Basic Core Java Program(ExToFindSumOfEachRowAndEachColumnOfMatrix.java)
 Write a program in java to find the sum of each row and each column of a matrix.
 
-#### Program 445 Basic Core Java Program(ExToRemoveDuplicateElementInAnArray.java)
-Write a program in java to remove duplicate element in an Array.
+#### Program 445 Basic Core Java Program(AwtExToCreateCounter.java)
+Write a program in java to create counter using AWT.
+
+#### Program 446 Basic Core Java Program(SwingExToDemonstrateHowToCreateButton.java)
+Write a program in java of Swing to demonstrate how to create button.
+
+#### Program 447 Basic Core Java Program(SwingExToDemonstrateJButtonWithActionListener.java)
+Write a program in java of Swing to demonstrate JButton with ActionListener.
+
+#### Program 448 Basic Core Java Program(SwingExOfDisplayingImageOnButton.java)
+Write a program in java of Swing to display image on Button.
+
+#### Program 449 Basic Core Java Program(SwingExToDemonstrateHowToCreateLabel.java)
+Write a program in java of Swing to demonstrate how to create Label.
+
+#### Program 450 Basic Core Java Program(SwingExToDemonstrateJLabelWithActionListener.java)
+Write a program in java of Swing to demonstrate JButton with ActionListener.
 
 
 
