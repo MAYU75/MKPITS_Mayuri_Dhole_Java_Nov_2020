@@ -1,4 +1,4 @@
-//Java program of Swing to demonstrate JButton with ActionListener.
+//Java program of Swing to demonstrate JLabel with ActionListener.
 
 package src.com.mkpits.java.swingexamples;
 
