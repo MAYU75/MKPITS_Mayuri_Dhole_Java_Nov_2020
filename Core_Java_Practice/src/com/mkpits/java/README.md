@@ -1592,6 +1592,42 @@ Write a program in java of Swing to demonstrate JOptionPane with showMessageDial
 #### Program 470 Basic Core Java Program(SwingExToDemonstrateJOptionPaneWithShowInputDialogMethod.java)
 Write a program in java of Swing to demonstrate JOptionPane with showInputDialog().
 
+#### Program 471 Basic Core Java Program(SwingExToDemonstrateJOptionPaneWithShowConfirmDialogMethod.java)
+Write a program in java of Swing to demonstrate JOptionPane with showInputDialog().
+
+#### Program 472 Basic Core Java Program(SwingExToDemonstrateHowToCreateVerticalScrollBar.java)
+Write a program in java of Swing to demonstrate how to create Vertical ScrollBar.
+
+#### Program 473 Basic Core Java Program(SwingExToDemonstrateVerticalJScrollBarWithAdjustmentListener.java)
+Write a program in java of Swing to demonstrate Vertical JScrollBar with AdjustmentListener.
+
+#### Program 474 Basic Core Java Program(SwingExToDemonstrateHowToCreateMenuItemAndMenu.java)
+Write a program in java of Swing to demonstrate how to create MenuItem and Menu.
+
+#### Program 475 Basic Core Java Program(SwingExToDemonstrateHowToCreateEditMenuForNotepadUsingJMenuItemAndMenu.java)
+Write a program in java of Swing to demonstrate how to create edit Menu for Notepad using JMenuItem and JMenu.
+
+#### Program 476 Basic Core Java Program(SwingExToDemonstrateHowToCreatePopupMenu.java)
+Write a program in java of Swing to demonstrate how to create PopupMenu.
+
+#### Program 477 Basic Core Java Program(SwingExToDemonstrateJPopupMenuWithMouseListenerAndActionListener.java)
+Write a program in java of Swing to demonstrate JPopupMenu with MouseListener and ActionListener.
+
+#### Program 478 Basic Core Java Program(SwingExToDemonstrateHowToCreateCheckBoxMenuItem.java)
+Write a program in java of Swing to demonstrate how to create CheckBoxMenuItem.
+
+#### Program 479 Basic Core Java Program(SwingExToDemonstrateHowToCreateJSeparatorEx1.java)
+Write a program in java of Swing to demonstrate how to create JSeparator (Example 1).
+
+#### Program 480 Basic Core Java Program(SwingExToDemonstrateHowToCreateJSeparatorEx2.java)
+Write a program in java of Swing to demonstrate how to create JSeparator (Example 2).
+
+
+
+
+
+
+
 
 
 
