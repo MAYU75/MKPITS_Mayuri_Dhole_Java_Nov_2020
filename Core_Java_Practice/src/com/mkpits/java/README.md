@@ -1667,6 +1667,23 @@ Write a program in java of Swing to demonstrate JToolBar.
 #### Program 495 Basic Core Java Program(SwingExToDemonstrateJViewport.java)
 Write a program in java of Swing to demonstrate JViewport.
 
+#### Program 496 Basic Core Java Program(SwingExToDemonstrateJFrame.java)
+Write a program in java of Swing to demonstrate JFrame.
+
+#### Program 497 Basic Core Java Program(SwingExToDemonstrateJComponent.java)
+Write a program in java of Swing to demonstrate JComponent.
+
+#### Program 498 Basic Core Java Program(SwingExToDemonstrateJLayeredPane.java)
+Write a program in java of Swing to demonstrate JLayeredPane.
+
+#### Program 499 Basic Core Java Program(SwingExToDemonstrateJDesktopPane.java)
+Write a program in java of Swing to demonstrate JDesktopPane.
+
+#### Program 500 Basic Core Java Program(SwingExToDemonstrateJEditorPane.java)
+Write a program in java of Swing to demonstrate JEditorPane.
+
+
+
 
 
 
