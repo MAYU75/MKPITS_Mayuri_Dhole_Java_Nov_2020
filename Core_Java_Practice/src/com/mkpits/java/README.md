@@ -1682,9 +1682,32 @@ Write a program in java of Swing to demonstrate JDesktopPane.
 #### Program 500 Basic Core Java Program(SwingExToDemonstrateJEditorPane.java)
 Write a program in java of Swing to demonstrate JEditorPane.
 
+#### Program 501 Basic Core Java Program(SwingExToDemonstrateJScrollPane.java)
+Write a program in java of Swing to demonstrate JScrollPane.
 
+#### Program 502 Basic Core Java Program(SwingExToDemonstrateJSplitPane.java)
+Write a program in java of Swing to demonstrate JSplitPane.
 
+#### Program 503 Basic Core Java Program(SwingExToDemonstrateJTextPane.java)
+Write a program in java of Swing to demonstrate JTextPane.
 
+#### Program 504 Basic Core Java Program(SwingExToDemonstrateJRootPane.java)
+Write a program in java of Swing to demonstrate JRootPane.
+
+#### Program 505 Basic Core Java Program(SwingExToDemonstrateHowToUseToolTip.java)
+Write a program in java of Swing to demonstrate how to use ToolTip.
+
+#### Program 506 Basic Core Java Program(SwingExToDemonstrateHowToChangeTitleBarIcon.java)
+Write a program in java of Swing to demonstrate how to change TitleBar icon.
+
+#### Program 507 Basic Core Java Program(SwingExToDemonstrateDigitalClock.java)
+Write a program in java of Swing to demonstrate Digital Clock.
+
+#### Program 508 Basic Core Java Program(SwingExToDisplayGraphics.java)
+Write a program in java of Swing to display graphics.
+
+#### Program 509 Basic Core Java Program(SwingExToDisplayImage.java)
+Write a program in java of Swing to display image.
 
 
 
