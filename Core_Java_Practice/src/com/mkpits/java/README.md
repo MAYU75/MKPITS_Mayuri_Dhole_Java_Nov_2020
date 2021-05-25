@@ -1709,6 +1709,15 @@ Write a program in java of Swing to display graphics.
 #### Program 509 Basic Core Java Program(SwingExToDisplayImage.java)
 Write a program in java of Swing to display image.
 
+#### Program 510 Basic Core Java Program(ArrayListExToDemonstrateCreatingGenericArrayList.java)
+Write a program in java to demonstrate how to create a generic ArrayList.
+
+#### Program 511 Basic Core Java Program(ArrayListExToIterateArrayListUsingIterator.java)
+Write a program in java to iterate ArrayList using Iterator.
+
+#### Program 512 Basic Core Java Program(ArrayListExToIterateArrayListUsingForeachLoop.java)
+Write a program in java to iterate ArrayList using For-each loop.
+
 
 
 
