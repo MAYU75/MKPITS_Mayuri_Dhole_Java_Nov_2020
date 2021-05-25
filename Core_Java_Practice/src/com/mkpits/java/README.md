@@ -1718,14 +1718,35 @@ Write a program in java to iterate ArrayList using Iterator.
 #### Program 512 Basic Core Java Program(ArrayListExToIterateArrayListUsingForeachLoop.java)
 Write a program in java to iterate ArrayList using For-each loop.
 
+#### Program 513 Basic Core Java Program(ArrayListExToGetAndSetArrayList.java)
+Write a program in java to demonstrate how to Get and Set ArrayList.
 
+#### Program 514 Basic Core Java Program(ArrayListExToSortArrayList.java)
+Write a program in java to demonstrate how to Sort ArrayList.
 
+#### Program 515 Basic Core Java Program(ArrayListExToTraverseListThroughListIteratorForLoopForEachAndForEachRemainingMethod.java)
+Write a program in java to demonstrate how to Traverse list through List Iterator,for loop, forEach() method and forEachRemaining() method.
 
+#### Program 516 Basic Core Java Program(ArrayListExToStoreUserdefinedClassObjectsInArrayList.java)
+Write a program in java to demonstrate how to store User-defined class objects in Java ArrayList.
 
+#### Program 517 Basic Core Java Program(ArrayListExToSerializeAndDeserializeArrayListObject.java)
+Write a program in java to demonstrate how to serialize and deserialize ArrayList object.
 
+#### Program 518 Basic Core Java Program(ArrayListExToDemonstrateHowToAddElementsInArrayList.java)
+Write a program in java to demonstrate how to add Elements in ArrayList.
 
+#### Program 519 Basic Core Java Program(ArrayListExToDemonstrateHowToRemoveElementInArrayList.java)
+Write a program in java to demonstrate how to remove Elements in ArrayList.
 
+#### Program 520 Basic Core Java Program(ArrayListExToDemonstrateRetainAllMethod.java)
+Write a program in java to demonstrate retainAll() method.
 
+#### Program 521 Basic Core Java Program(ArrayListExToDemonstrateIsEmptyMethod.java)
+Write a program in java to demonstrate isEmpty() method.
+
+#### Program 522 Basic Core Java Program(ArrayListExToDemonstrateAddingAndPrintingBooksOfList.java)
+Write a program in java to demonstrate adding books to list and printing all the books.
 
 
 
