@@ -1748,12 +1748,17 @@ Write a program in java to demonstrate isEmpty() method.
 #### Program 522 Basic Core Java Program(ArrayListExToDemonstrateAddingAndPrintingBooksOfList.java)
 Write a program in java to demonstrate adding books to list and printing all the books.
 
+#### Program 523 Basic Core Java Program(ArrayListExToDemonstrateCollectionOfFiveStudents.java)
+Write a program in java to demonstrate Collection of name of five students using ArrayList.
 
+#### Program 524 Basic Core Java Program(ArrayListExToDemonstrateCollectionOfFiveStudentsByAcceptingFromUser.java)
+Write a program in java to demonstrate Collection of name of five students accepted from user using ArrayList.
 
+#### Program 525 Basic Core Java Program(ArrayListExToTraverseListUsingIterator.java)
+Write a program in java to traverse ArrayList using Iterator.
 
-
-
-
+#### Program 526 Basic Core Java Program(ArrayListExToTraverseListUsingForEachLoop.java)
+Write a program in java to traverse ArrayList using for-each loop.
 
 
 
