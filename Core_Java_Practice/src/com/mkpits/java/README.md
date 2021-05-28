@@ -1787,10 +1787,17 @@ Write a program in java to traverse ArrayList using for-each Loop.
 #### Program 535 Basic Core Java Program(CollectionExToDemonstrateArrayListAndLinkedList.java)
 Write a program in java to demonstrate ArrayList and LinkedList.
 
+#### Program 536 Basic Core Java Program(ArrayListExToTraverseListUsingForLoop.java)
+Write a program in java to traverse ArrayList using for Loop.
 
+#### Program 537 Basic Core Java Program(ArrayListExToDemonstrateCollectionOfFiveStudents.java)
+Write a program in java to demonstrate Collection of name of five students using ArrayList.
 
+#### Program 538 Basic Core Java Program(ArrayListExToDemonstrateIsEmptyMethod.java)
+Write a program in java to demonstrate isEmpty() method.
 
+#### Program 539 Basic Core Java Program(ArrayListExToTraverseListUsingIterator.java)
+Write a program in java to traverse ArrayList using Iterator.
 
-
-
-
+#### Program 540 Basic Core Java Program(ArrayListExToDemonstrateAddingAndPrintingBooksOfList.java)
+Write a program in java to demonstrate adding books to list and printing all the books.
