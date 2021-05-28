@@ -1787,17 +1787,17 @@ Write a program in java to traverse ArrayList using for-each Loop.
 #### Program 535 Basic Core Java Program(CollectionExToDemonstrateArrayListAndLinkedList.java)
 Write a program in java to demonstrate ArrayList and LinkedList.
 
-#### Program 536 Basic Core Java Program(ArrayListExToTraverseListUsingForLoop.java)
-Write a program in java to traverse ArrayList using for Loop.
+#### Program 536 Basic Core Java Program(LinkedListExToDisplayListUsingIterator.java)
+Write a program in java to display LinkedList using Iterator.
 
-#### Program 537 Basic Core Java Program(ArrayListExToDemonstrateCollectionOfFiveStudents.java)
-Write a program in java to demonstrate Collection of name of five students using ArrayList.
+#### Program 537 Basic Core Java Program(LinkedListExToAddElementsInListThroughDifferentWays.java)
+Write a program in java to add elements in list through different ways.
 
-#### Program 538 Basic Core Java Program(ArrayListExToDemonstrateIsEmptyMethod.java)
-Write a program in java to demonstrate isEmpty() method.
+#### Program 538 Basic Core Java Program(LinkedListExToRemoveElementsFromListThroughDifferentWays.java)
+Write a program in java to remove elements from list through different ways.
 
-#### Program 539 Basic Core Java Program(ArrayListExToTraverseListUsingIterator.java)
-Write a program in java to traverse ArrayList using Iterator.
+#### Program 539 Basic Core Java Program(LinkedListExToReverseListOfElements.java)
+Write a program in java to reverse list of elements in LinkedList.
 
-#### Program 540 Basic Core Java Program(ArrayListExToDemonstrateAddingAndPrintingBooksOfList.java)
-Write a program in java to demonstrate adding books to list and printing all the books.
+#### Program 540 Basic Core Java Program(LinkedListExToCreateListOfBooks.java)
+Write a program in java to create list of Books in LinkedList.
