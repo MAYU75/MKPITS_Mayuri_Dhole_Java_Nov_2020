@@ -1760,9 +1760,14 @@ Write a program in java to traverse ArrayList using Iterator.
 #### Program 526 Basic Core Java Program(ArrayListExToTraverseListUsingForEachLoop.java)
 Write a program in java to traverse ArrayList using for-each loop.
 
+#### Program 527 Basic Core Java Program(ArrayListExampleUsingAwt.java)
+Write a program in java to demonstrate ArrayList using AWT.
 
+#### Program 528 Basic Core Java Program(ArrayListExToDemonstrateSetAndGetMethod.java)
+Write a program in java to demonstrate set() and get() method.
 
+#### Program 529 Basic Core Java Program(ArrayListExToDemonstrateSetAndGetMethodUsingAwt.java)
+Write a program in java to demonstrate set() and get() method using AWT.
 
-
-
-
+#### Program 530 Basic Core Java Program(ArrayListExToDemonstrateSetAndGetMethodUsingSwing.java)
+Write a program in java to demonstrate set() and get() method using Swing.
