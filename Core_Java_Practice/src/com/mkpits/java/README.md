@@ -1781,9 +1781,11 @@ Write a program in java to traverse ArrayList through ListIterator in Swing.
 #### Program 533 Basic Core Java Program(ArrayListExToTraverseListUsingForLoop.java)
 Write a program in java to traverse ArrayList using for Loop.
 
+#### Program 534 Basic Core Java Program(ArrayListExToTraverseArraylistUsingForEachLoop.java)
+Write a program in java to traverse ArrayList using for-each Loop.
 
-
-
+#### Program 535 Basic Core Java Program(CollectionExToDemonstrateArrayListAndLinkedList.java)
+Write a program in java to demonstrate ArrayList and LinkedList.
 
 
 
