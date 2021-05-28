@@ -1771,3 +1771,24 @@ Write a program in java to demonstrate set() and get() method using AWT.
 
 #### Program 530 Basic Core Java Program(ArrayListExToDemonstrateSetAndGetMethodUsingSwing.java)
 Write a program in java to demonstrate set() and get() method using Swing.
+
+#### Program 531 Basic Core Java Program(ArrayListExToSortArrayListElements.java)
+Write a program in java to sort ArrayList elements.
+
+#### Program 532 Basic Core Java Program(ArrayListExToTraverseArrayListThroughListIteratorInSwing.java)
+Write a program in java to traverse ArrayList through ListIterator in Swing.
+
+#### Program 533 Basic Core Java Program(ArrayListExToTraverseListUsingForLoop.java)
+Write a program in java to traverse ArrayList using for Loop.
+
+
+
+
+
+
+
+
+
+
+
+
