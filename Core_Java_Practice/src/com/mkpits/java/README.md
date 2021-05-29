@@ -1801,3 +1801,6 @@ Write a program in java to reverse list of elements in LinkedList.
 
 #### Program 540 Basic Core Java Program(LinkedListExToCreateListOfBooks.java)
 Write a program in java to create list of Books in LinkedList.
+
+#### Program 541 Basic Core Java Program(ArrayListExOfListOfProductsUsingAwt.java)
+Write a program in java to collect list of products using AWT.
