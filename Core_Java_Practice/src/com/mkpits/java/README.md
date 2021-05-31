@@ -1804,3 +1804,17 @@ Write a program in java to create list of Books in LinkedList.
 
 #### Program 541 Basic Core Java Program(ArrayListExOfListOfProductsUsingAwt.java)
 Write a program in java to collect list of products using AWT.
+
+#### Program 542 Basic Core Java Program(ListExToCreateListUsingArrayListClass.java)
+Write a program in java to create list.
+
+#### Program 543 Basic Core Java Program(ListExToConvertArrayToList.java)
+Write a program in java to convert Array to List.
+
+#### Program 544 Basic Core Java Program(ListExToConvertListToArray.java)
+Write a program in java to convert List to Array.
+
+#### Program 545 Basic Core Java Program(ListExToGetAndSetElementsOfList.java)
+Write a program in java to Get and Set Element in List using get() and set() method.
+
+
