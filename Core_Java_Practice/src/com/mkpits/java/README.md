@@ -1817,4 +1817,12 @@ Write a program in java to convert List to Array.
 #### Program 545 Basic Core Java Program(ListExToGetAndSetElementsOfList.java)
 Write a program in java to Get and Set Element in List using get() and set() method.
 
+#### Program 546 Basic Core Java Program(ListExToSortTheList.java)
+Write a program in java to sort the List.
+
+#### Program 547 Basic Core Java Program(ListExToTraverseElementInBackwardAndForwardDirectionUsingListIterator.java)
+Write a program in java to traverse the element in a backward and forward direction using ListIterator Interface.
+
+#### Program 548 Basic Core Java Program(ListExToCreateAndAddListOfBooks.java)
+Write a program in java to create and add List of Books.
 
