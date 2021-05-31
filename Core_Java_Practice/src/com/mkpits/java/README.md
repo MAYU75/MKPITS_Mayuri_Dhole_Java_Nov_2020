@@ -1826,3 +1826,17 @@ Write a program in java to traverse the element in a backward and forward direct
 #### Program 548 Basic Core Java Program(ListExToCreateAndAddListOfBooks.java)
 Write a program in java to create and add List of Books.
 
+#### Program 549 Basic Core Java Program(HashSetExToAddAndIterateElements.java)
+Write a program in java to add and iterate elements using HashSet.
+
+#### Program 550 Basic Core Java Program(HashSetExToIgnoreDuplicateElements.java)
+Write a program in java to ignore duplicate elements using HashSet.
+
+#### Program 551 Basic Core Java Program(HashSetExToRemoveElementsInDifferentWays.java)
+Write a program in java to remove elements in different ways.
+
+#### Program 552 Basic Core Java Program(HashSetExFromAnotherCollection.java)
+Write a program in java to demonstrate Java HashSet from another Collection.
+
+#### Program 553 Basic Core Java Program(HashSetExToSetAndPrintBooks.java)
+Write a program in java to set and print all the books.
