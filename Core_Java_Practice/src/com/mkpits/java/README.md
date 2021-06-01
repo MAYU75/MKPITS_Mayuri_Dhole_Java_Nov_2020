@@ -1840,3 +1840,14 @@ Write a program in java to demonstrate Java HashSet from another Collection.
 
 #### Program 553 Basic Core Java Program(HashSetExToSetAndPrintBooks.java)
 Write a program in java to set and print all the books.
+
+#### Program 554 Basic Core Java Program(LinkedHashSetExToCreateLinkedHashSetAndAddElements.java)
+Write a program in java to create LinkedHashSet and add elements.
+
+#### Program 555 Basic Core Java Program(LinkedHashSetExToIgnoreDuplicateElements.java)
+Write a program in java to ignore duplicate elements using  LinkedHashSet.
+
+#### Program 556 Basic Core Java Program(LinkedHashSetExToCreateAndAddBooksToHashTable.java)
+Write a program in java to create and add books to HashTable using LinkedHashSet.
+
+
