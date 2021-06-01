@@ -1850,4 +1850,21 @@ Write a program in java to ignore duplicate elements using  LinkedHashSet.
 #### Program 556 Basic Core Java Program(LinkedHashSetExToCreateAndAddBooksToHashTable.java)
 Write a program in java to create and add books to HashTable using LinkedHashSet.
 
+#### Program 557 Basic Core Java Program(TreeSetExToCreateAndAddElements.java)
+Write a program in java to create and add elements using TreeSet.
+
+#### Program 558 Basic Core Java Program(TreeSetExToTraverseElementsInDescendingOrder.java)
+Write a program in java to traverse elements in descending order using TreeSet.
+
+#### Program 559 Basic Core Java Program(TreeSetExToRetrieveAndRemoveHighestAndLowestValue.java)
+Write a program in java to retrieve and remove the highest and lowest Value using TreeSet.
+
+#### Program 560 Basic Core Java Program(TreeSetExToDemonstrateNavigableSetOperations.java)
+Write a program in java to demonstrate various NavigableSet operations using TreeSet.
+
+#### Program 561 Basic Core Java Program(TreeSetExToDemonstrateSortedSetOperations.java)
+Write a program in java to demonstrate various SortedSet operations using TreeSet.
+
+#### Program 562 Basic Core Java Program(TreeSetExToAddSetAndPrintBooks.java)
+Write a program in java to add, set and print all books using TreeSet.
 
