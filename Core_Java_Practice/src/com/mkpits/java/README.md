@@ -1883,4 +1883,11 @@ Write a program in java to demonstrate offerFirst() and pollLast() method.
 #### Program 567 Basic Core Java Program(ArrayDequeExToAddAndTraverseBooksInDeque.java)
 Write a program in java to add and traverse books in Deque.
 
+#### Program 568 Basic Core Java Program(MapInterfaceExToAddAndTraverseElementsNongeneric.java)
+Write a program in java to add and traverse elements in map by Non-generic style.
 
+#### Program 569 Basic Core Java Program(MapInterfaceExToAddAndTraverseElementsGeneric.java)
+Write a program in java to add and traverse elements in map by Generic style.
+
+#### Program 570 Basic Core Java Program(MapInterfaceExToDemonstrateComparingByKeyMethod.java)
+Write a program in java to demonstrate comparingByKey() method in map interface.
