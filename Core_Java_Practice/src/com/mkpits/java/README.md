@@ -1873,3 +1873,14 @@ Write a program in java to add, iterate and remove Queue Elements using Priority
 
 #### Program 564 Basic Core Java Program(PriorityQueueExToAddPrintAndRemoveBooks.java)
 Write a program in java to add, print and remove books in PriorityQueue.
+
+#### Program 565 Basic Core Java Program(ArrayDequeExToAddAndTraverseElements.java)
+Write a program in java to add and traverse elements using ArrayDeque.
+
+#### Program 566 Basic Core Java Program(ArrayDequeExToDemonstrateOfferFirstAndPollLastMethod.java)
+Write a program in java to demonstrate offerFirst() and pollLast() method.
+
+#### Program 567 Basic Core Java Program(ArrayDequeExToAddAndTraverseBooksInDeque.java)
+Write a program in java to add and traverse books in Deque.
+
+
