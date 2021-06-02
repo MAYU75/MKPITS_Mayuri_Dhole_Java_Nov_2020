@@ -1868,3 +1868,8 @@ Write a program in java to demonstrate various SortedSet operations using TreeSe
 #### Program 562 Basic Core Java Program(TreeSetExToAddSetAndPrintBooks.java)
 Write a program in java to add, set and print all books using TreeSet.
 
+#### Program 563 Basic Core Java Program(PriorityQueueExToAddIterateAndRemoveQueueElements.java)
+Write a program in java to add, iterate and remove Queue Elements using PriorityQueue.
+
+#### Program 564 Basic Core Java Program(PriorityQueueExToAddPrintAndRemoveBooks.java)
+Write a program in java to add, print and remove books in PriorityQueue.
