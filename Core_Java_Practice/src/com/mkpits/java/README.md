@@ -1919,6 +1919,18 @@ Write a program in java to replace elements in different ways in HashMap.
 #### Program 579 Basic Core Java Program(HashMapExToAddAndTraverseBooksToMap.java)
 Write a program in java to add and traverse Books to Map in HashMap.
 
+#### Program 580 Basic Core Java Program(LinkedHashMapExToAddAndTraverseElements.java)
+Write a program in java to add and traverse elements in LinkedHashMap.
+
+#### Program 581 Basic Core Java Program(LinkedHashMapExToFetchKeyValuePair.java)
+Write a program in java to fetch Key-Value pair in LinkedHashMap.
+
+#### Program 582 Basic Core Java Program(LinkedHashMapExToDemonstrateRemoveMethod.java)
+Write a program in java to demonstrate remove() method of LinkedHashMap.
+
+#### Program 583 Basic Core Java Program(LinkedHashMapExToAddAndTraverseBooks.java)
+Write a program in java to add and traverse Books using LinkedHashMap.
+
 
 
 
