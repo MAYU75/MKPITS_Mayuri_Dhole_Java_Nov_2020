@@ -1900,3 +1900,27 @@ Write a program in java to demonstrate comparingByValue() method in map interfac
 
 #### Program 573 Basic Core Java Program(MapInterfaceExToDemonstrateComparingByValueMethodInDescendingOrder.java)
 Write a program in java to demonstrate comparingByValue() method in descending order in map interface.
+
+#### Program 574 Basic Core Java Program(HashMapExToStoreKeyAndValuePair.java)
+Write a program in java to store key and value pair using HashMap.
+
+#### Program 575 Basic Core Java Program(HashMapExToDemonstrateStoringDuplicateKey.java)
+Write a program in java to demonstrate storing duplicate key in HashMap.
+
+#### Program 576 Basic Core Java Program(HashMapExToInsertElementsInDifferentWays.java)
+Write a program in java to insert elements in different ways in HashMap.
+
+#### Program 577 Basic Core Java Program(HashMapExToRemoveElementsInDifferentWays.java)
+Write a program in java to remove elements in different ways in HashMap.
+
+#### Program 578 Basic Core Java Program(HashMapExToReplaceElementsInDifferentWays.java)
+Write a program in java to replace elements in different ways in HashMap.
+
+#### Program 579 Basic Core Java Program(HashMapExToAddAndTraverseBooksToMap.java)
+Write a program in java to add and traverse Books to Map in HashMap.
+
+
+
+
+
+
