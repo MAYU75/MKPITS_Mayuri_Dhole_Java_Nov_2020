@@ -1931,6 +1931,12 @@ Write a program in java to demonstrate remove() method of LinkedHashMap.
 #### Program 583 Basic Core Java Program(LinkedHashMapExToAddAndTraverseBooks.java)
 Write a program in java to add and traverse Books using LinkedHashMap.
 
+#### Program 584 Basic Core Java Program(TreeMapExToAddAndTraverseKeyValuePair.java)
+Write a program in java to add and traverse Key-Value Pair using TreeMap.
+
+#### Program 585 Basic Core Java Program(TreeMapExToDemonstrateRemoveMethod.java)
+Write a program in java to demonstrate remove() method of TreeMap.
+
 
 
 
