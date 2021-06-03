@@ -1,10 +1,10 @@
-//Java program to demonstrate comparingByKey() method in map interface.
+//Java program to demonstrate comparingByValue() method in descending order in map interface.
 
 package src.com.mkpits.java.mapinterface;
 
 import java.util.*;
 
-public class MapInterfaceExToDemonstrateComparingByKeyMethod {
+public class MapInterfaceExToDemonstrateComparingByValueMethodInDescendingOrder {
     public static void main(String[] args) {
         Map<Integer, String> map = new HashMap<Integer, String>();
         map.put(100, "Amit");
@@ -15,7 +15,7 @@ public class MapInterfaceExToDemonstrateComparingByKeyMethod {
                 //Returns a sequential Stream with this collection as its source
                 .stream()
                 //Sorted according to the provided Comparator
-                .sorted(Map.Entry.comparingByKey())
+                .sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
                 //Performs an action for each element of this stream
                 .forEach(System.out::println);
     }

@@ -1891,3 +1891,12 @@ Write a program in java to add and traverse elements in map by Generic style.
 
 #### Program 570 Basic Core Java Program(MapInterfaceExToDemonstrateComparingByKeyMethod.java)
 Write a program in java to demonstrate comparingByKey() method in map interface.
+
+#### Program 571 Basic Core Java Program(MapInterfaceExToDemonstrateComparingByKeyMethodInDescendingOrder.java)
+Write a program in java to demonstrate comparingByKey() method in descending order in map interface.
+
+#### Program 572 Basic Core Java Program(MapInterfaceExToDemonstrateComparingByValueMethod.java)
+Write a program in java to demonstrate comparingByValue() method in map interface.
+
+#### Program 573 Basic Core Java Program(MapInterfaceExToDemonstrateComparingByValueMethodInDescendingOrder.java)
+Write a program in java to demonstrate comparingByValue() method in descending order in map interface.
