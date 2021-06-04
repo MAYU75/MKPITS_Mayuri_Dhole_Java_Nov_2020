@@ -1937,6 +1937,17 @@ Write a program in java to add and traverse Key-Value Pair using TreeMap.
 #### Program 585 Basic Core Java Program(TreeMapExToDemonstrateRemoveMethod.java)
 Write a program in java to demonstrate remove() method of TreeMap.
 
+#### Program 586 Basic Core Java Program(TreeMapExToDemonstrateNavigableMapInterface.java)
+Write a program in java to demonstrate NavigableMap Interface of TreeMap.
+
+#### Program 587 Basic Core Java Program(TreeMapExToDemonstrateSortedMap.java)
+Write a program in java to demonstrate SortedMap of TreeMap.
+
+#### Program 588 Basic Core Java Program(TreeMapExToAddAndTraverseBooks.java)
+Write a program in java to add and traverse Books to map using TreeMap.
+
+
+
 
 
 
