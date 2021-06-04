@@ -1946,6 +1946,18 @@ Write a program in java to demonstrate SortedMap of TreeMap.
 #### Program 588 Basic Core Java Program(TreeMapExToAddAndTraverseBooks.java)
 Write a program in java to add and traverse Books to map using TreeMap.
 
+#### Program 589 Basic Core Java Program(HashtableExToDemonstrateRemoveMethod.java)
+Write a program in java to demonstrate remove() method of Hashtable class.
+
+#### Program 590 Basic Core Java Program(HashtableExToDemonstrateGetOrDefaultMethod.java)
+Write a program in java to  demonstrate getOrDefault() method of Hashtable class.
+
+#### Program 591 Basic Core Java Program(HashtableExToDemonstratePutIfAbsentMethod.java)
+Write a program in java to demonstrate putIfAbsent() method of Hashtable class.
+
+#### Program 592 Basic Core Java Program(HashtableExToAddAndTraverseBooks.java)
+Write a program in java to add and traverse Books to map using Hashtable.
+
 
 
 
