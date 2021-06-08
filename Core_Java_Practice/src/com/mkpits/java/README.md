@@ -1958,6 +1958,20 @@ Write a program in java to demonstrate putIfAbsent() method of Hashtable class.
 #### Program 592 Basic Core Java Program(HashtableExToAddAndTraverseBooks.java)
 Write a program in java to add and traverse Books to map using Hashtable.
 
+#### Program 593 Basic Core Java Program(JdbcExToDemonstrateHowToCreateTableEmployee.java)
+Write a program in java to demonstrate how to create table 'employee1' in a database 
+using JDBC connection.
+
+#### Program 594 Basic Core Java Program(JdbcExToDemonstrateHowToCreateTableStudent.java)
+Write a program in java to demonstrate how to create table 'Student' in a database
+using JDBC connection.
+
+#### Program 595 Basic Core Java Program(JdbcExToDemonstrateHowToInsertRecordsIntoTableEmployee.java)
+Write a program in java to demonstrate how to insert records into the table 'employee1'.
+
+#### Program 596 Basic Core Java Program(JdbcExOfCreatingShopFormUsingSwing.java)
+Write a program in java to demonstrate how to create Shop form using Swing.
+
 
 
 
