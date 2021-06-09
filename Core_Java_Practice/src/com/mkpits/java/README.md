@@ -1972,6 +1972,9 @@ Write a program in java to demonstrate how to insert records into the table 'emp
 #### Program 596 Basic Core Java Program(JdbcExOfCreatingShopFormUsingSwing.java)
 Write a program in java to demonstrate how to create Shop form using Swing.
 
+#### Program 596 Basic Core Java Program(JdbcExOfCreatingSupplierFormUsingSwing.java)
+Write a program in java to demonstrate how to create Supplier form using Swing.
+
 
 
 
