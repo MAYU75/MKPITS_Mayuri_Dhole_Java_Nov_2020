@@ -55,7 +55,7 @@ public class JdbcExOfCreatingShopFormUsingSwing extends JFrame {
                                     "postgres", "SA");
                     System.out.println("Opened database successfully");
                     stmt = con.createStatement();
-                    String str = "insert into Shop123 values('" + t1.getText() + "','" + t2.getText() + "','" + t3.getText() + "','" + t4.getText() + "')";
+                    String str = "insert into shop values('" + t1.getText() + "','" + t2.getText() + "','" + t3.getText() + "','" + t4.getText() + "')";
                     stmt.executeUpdate(str);
                     con.close();
                     l5.setText("record inserted successfully");
@@ -82,7 +82,7 @@ public class JdbcExOfCreatingShopFormUsingSwing extends JFrame {
                                     "postgres", "SA");
                     //System.out.println("Opened database successfully");
                     stmt = con.createStatement();
-                    String str = "update Shop123 set city='" + t2.getText() + "',owner='" + t3.getText() + "',address='" + t4.getText() + "' where shop_no='" + t1.getText() + "'";
+                    String str = "update shop set city='" + t2.getText() + "',owner='" + t3.getText() + "',address='" + t4.getText() + "' where shop_no='" + t1.getText() + "'";
                     stmt.executeUpdate(str);
                     con.close();
                     l5.setText("record updated successfully");
@@ -111,7 +111,7 @@ public class JdbcExOfCreatingShopFormUsingSwing extends JFrame {
                             .getConnection("jdbc:postgresql://localhost:5433/mkpits1",
                                     "postgres", "SA");
                     stmt = con.createStatement();
-                    String str = "delete from Shop123 where shop_no='" + t1.getText() + "'";
+                    String str = "delete from shop where shop_no='" + t1.getText() + "'";
                     stmt.executeUpdate(str);
                     con.close();
                     l5.setText("record deleted successfully");
@@ -140,7 +140,7 @@ public class JdbcExOfCreatingShopFormUsingSwing extends JFrame {
                             .getConnection("jdbc:postgresql://localhost:5433/mkpits1",
                                     "postgres", "SA");
                     stmt = con.createStatement();
-                    String str = "select * from Shop123 where shop_no='" + t1.getText() + "'";
+                    String str = "select * from shop where shop_no='" + t1.getText() + "'";
                     ResultSet rs = stmt.executeQuery(str);
                     int flag = 0;
                     while (rs.next()) {
