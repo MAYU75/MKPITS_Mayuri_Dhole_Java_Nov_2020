@@ -1978,6 +1978,27 @@ Write a program in java to demonstrate how to create Supplier form using Swing.
 #### Program 597 Basic Core Java Program(JdbcExOfCreatingShopFormWithClassShopUsingSwing.java)(Shop.java)
 Write a program in java to demonstrate how to create Shop form with class Shop using Swing.
 
+#### Program 598 Basic Core Java Program(JdbcExOfCreatingLoginFormAndCheckTheCredentialsFromRegisterTable.java)(Shop.java)
+Write a program in java to demonstrate how to create login form and check the credentials from register table using Swing.
+
+#### Program 599 Basic Core Java Program(JdbcExOfCreatingSupplierFormWithClassSupplierUsingSwing.java)(SupplierClassWithAddUpdateRemoveAndSearchMethods.java)
+Write a program in java to demonstrate how to create Supplier form with class Supplier for adding new supplier and updating,
+removing and searching supplier details using Swing.
+
+#### Program 600 Basic Core Java Program(ServerExToSendAndReceiveMessagesFromClient.java)
+Write a program in java to demonstrate how to send messages to client from server and receive messages from client.
+
+#### Program 601 Basic Core Java Program(SeverSideChatProgramUsingSocketTimerAndAwt.java)(TimerClassServer.java)
+Write a program in java to demonstrate chatting program on server side using socket programming, awt and timer.
+
+#### Program 602 Basic Core Java Program(ClientExToSendAndReceiveMessagesFromServer.java)
+Write a program in java to demonstrate how to send messages to server from client
+and receive messages from server.
+
+#### Program 603 Basic Core Java Program(ClientSideChatProgramUsingSocketTimerAndAwt.java)(TimerClassClient.java)
+Write a program in java to demonstrate chatting program on client side using socket programming, awt and timer.
+
+
 
 
 
