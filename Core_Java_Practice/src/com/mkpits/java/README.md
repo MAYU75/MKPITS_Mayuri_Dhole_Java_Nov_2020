@@ -1998,7 +1998,18 @@ and receive messages from server.
 #### Program 603 Basic Core Java Program(ClientSideChatProgramUsingSocketTimerAndAwt.java)(TimerClassClient.java)
 Write a program in java to demonstrate chatting program on client side using socket programming, awt and timer.
 
+#### Program 604 Basic Core Java Program(ComparableInterfaceExThatSortsTheListElements.java)
+Write a program in java to sort the list of elements using Comparable Interface.
 
+#### Program 605 Basic Core Java Program(ComparatorInterfaceExThatSortsTheListElementsUsingDifferentComparators.java)(StudentEx.java)(AgeComparator.java)(NameComparator.java)
+Write a program in java of Comparator interface to sort the list of elements using different Comparators.
+
+#### Program 606 Basic Core Java Program(UrlExToGetProtocolHostNamePortNumberAndFileName.java)
+Write a program in java of URL to get the Protocol, Host Name, Port Number and File Name.
+
+#### Program 607 Basic Core Java Program(UrlExToGetProtocolHostNamePortNumberFileNameDefaultPortNumberQueryStringPathFile.java)
+Write a program in java of URL to get the Protocol, Host Name, Port Number, File Name,
+Default Port Number, Query String, Path and File.
 
 
 
