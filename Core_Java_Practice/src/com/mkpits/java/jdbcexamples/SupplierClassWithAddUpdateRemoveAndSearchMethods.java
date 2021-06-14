@@ -56,7 +56,8 @@ public class SupplierClassWithAddUpdateRemoveAndSearchMethods {
         this.pid = pid;
         try {
             connect();
-            String str = "update supplier set sup_name='" + sup_name + "',sup_addr='" + sup_addr + "',pname='" + pname + "', CP=" + CP + ", pid=" + pid + " where sup_id=" + sup_id + " ";
+            String str = "update supplier set sup_name='" + sup_name + "',sup_addr='" + sup_addr + "',pname='" + pname + "', cp1='" + CP + "', pid=" + pid + " where sup_id=" + sup_id + " ";
+            //String str = "update supplier set cp1="+CP+" where sup_id="+sup_id+"";
             stmt = con.createStatement();
             stmt.executeUpdate(str);
             stmt.close();
@@ -64,6 +65,7 @@ public class SupplierClassWithAddUpdateRemoveAndSearchMethods {
             return "Supplier updated successfully";
 
         } catch (Exception ee) {
+            System.out.println(ee.toString());
             return ee.toString();
         }
     }
@@ -98,7 +100,7 @@ public class SupplierClassWithAddUpdateRemoveAndSearchMethods {
                 this.sup_name = rs.getString("sup_name");
                 this.sup_addr = rs.getString("sup_addr");
                 this.pname = rs.getString("pname");
-                this.CP = rs.getInt("CP");
+                this.CP = rs.getInt("cp1");
                 this.pid = rs.getInt("pid");
             }
             rs.close();
