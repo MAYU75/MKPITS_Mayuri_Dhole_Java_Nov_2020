@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<script>
+	
+	function check() {
+	
+	let f,l,ead,mno,pad,zcode,cnt;
+	f=document.f1.firstName.value;
+	l=document.f1.lastName.value;
+	ead=document.f1.emailAddress.value;
+	mno=document.f1.mobileno.value;
+	pad=document.f1.postaladdress.value;
+	zcode=document.f1.zipcode.value;
+	cnt=0;
+	
+	if(f == "") {
+	document.getElementById("fn").innerHTML="Please Enter First Name.";
+	cnt=cnt+1;
+	} else {
+	document.getElementById("fn").innerHTML="";
+	
+	}
+	
+	if(l == "") {
+	document.getElementById("ln").innerHTML="Please Enter Last Name.";
+	cnt=cnt+1;
+	} else {
+	document.getElementById("ln").innerHTML="";
+	}
+	
+	if(ead == "") {
+	document.getElementById("eadr").innerHTML="Please Enter Email Address.";
+	cnt=cnt+1;
+	} else {
+	document.getElementById("eadr").innerHTML="";
+	}
+	
+	if(mno == "") {
+	document.getElementById("mn").innerHTML="Please Enter Mobile Number.";
+	cnt=cnt+1;
+	} else {
+	document.getElementById("mn").innerHTML="";
+	}
+	
+	if(pad == "") {
+	document.getElementById("padr").innerHTML="Please Enter Postal Address.";
+	cnt=cnt+1;
+	} else {
+	document.getElementById("padr").innerHTML="";
+	}
+	
+	if(zcode == "") {
+	document.getElementById("zc").innerHTML="Please Enter Zip Code.";
+	cnt=cnt+1;
+	} else {
+	document.getElementById("zc").innerHTML="";
+	}
+	
+	if(cnt == 0 ) {
+	document.getElementById("res").innerHTML="Registration Successful!";
+	}
+	else {
+	document.getElementById("res").innerHTML="";
+	}
+	}
+	
+
+	function checkFunction() {
+  var checkBox = document.getElementById("myCheck");
+  var text = document.getElementById("text");
+  if (checkBox.checked == true){
+    text.style.display = "block";
+  } else {
+     text.style.display = "none";
+  }
+}
+
+</script>
+<body>
+
+<h1 align=center>javascript</h1>
+	
+	<form name="f1">
+	<fieldset><legend>Registration form</legend>
+	First Name : <input type=text name="firstName" id="firstName" />
+	<span style="color:red;" id="fn">*</span>
+	<br><br>
+	
+	Last Name : <input type=text name="lastName" id="lastName" />
+	<span style="color:red;" id="ln">*</span>
+	<br><br>
+	
+	Email Address : <input type=text name="emailAddress" id="emailAddress" />
+	<span style="color:red;" id="eadr">*</span>
+	<br><br>
+	
+	Mobile Number : <input type=text name="mobileno" id="mobileno" />
+	<span style="color:red;" id="mn">*</span>
+	<br><br>
+	
+	Postal Address : <input type=text name="postaladdress" id="postaladdress" />
+	<span style="color:red;" id="padr">*</span>
+	<br><br>
+	
+	Zip Code : <input type=text name="zipcode" id="zipcode" />
+	<span style="color:red;" id="zc">*</span>
+	<br><br>
+	
+	<input type="checkbox" id="myCheck" onclick="checkFunction()">
+	<label for="myCheck">I agree to the Terms and Conditions.</label> <br><br>
+	
+	<button type=button onclick="check()" >Submit</button> <br><br>
+	
+	<div style="border:1px solid gray; padding:10px;background-color:green;color:white;" id="div1" name="div1">
+	<span  name="res" id="res" > </span>
+	</div>
+	</fieldset>
+	</form>
+</body>
+</html>
