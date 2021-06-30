@@ -719,7 +719,7 @@ class DesigningAnElevatorUsingAwt implements ActionListener {
                         }
                     }
                     class RemindTask11 extends TimerTask {
-                        b9.setEnabled(false);
+                       //b9.setEnabled(false);
                         public void run() {
                             label11.setText("2");
                             timer.cancel();
